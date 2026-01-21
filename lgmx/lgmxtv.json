@@ -1,0 +1,36 @@
+{
+  "2DNMX": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/11/out/u/dash/TUDN-HD/default.mpd",
+    "k1": "2722647f77b44824c432a3c4555830a2",
+    "k2": "1734befb82f4b438bd84195f6c212e7b"
+  },
+
+  "C5": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/2/out/u/dash/CANAL-5-HD/default.mpd",
+    "k1": "578f77c2e0fb7b31b1676b75b57fe922",
+    "k2": "6e5ee266b112e58a0e27e4384b03ed76"
+  },
+
+  "AZ7_2": {
+    "type": "jw",
+    "url": "https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8"
+  },
+
+  "TB": {
+    "type": "jw",
+    "url": "https://apollo.production-public.tubi.io/live/fox-en-tubi-dynamic-ad-breaks-aQpF7H.m3u8"
+  },
+
+
+  "F51MX_3": {
+    "type": "iframe",
+    "src": "https://streamtpcloud.com/global2.php?stream=foxsportsmx"
+  },
+
+  "F51MX_4": {
+    "type": "iframe",
+    "src": "https://streamtpcloud.com/global1.php?stream=foxsportsmx"
+  }
+}
