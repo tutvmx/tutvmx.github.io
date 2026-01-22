@@ -5,32 +5,484 @@
     "k1": "2722647f77b44824c432a3c4555830a2",
     "k2": "1734befb82f4b438bd84195f6c212e7b"
   },
-
   "C5": {
     "type": "jw",
     "url": "https://zap-live1-ott.izzigo.tv/2/out/u/dash/CANAL-5-HD/default.mpd",
     "k1": "578f77c2e0fb7b31b1676b75b57fe922",
     "k2": "6e5ee266b112e58a0e27e4384b03ed76"
   },
-
+  "AZ7": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/4/out/u/dash/AZTECA-7-HD/default.mpd",
+    "k1": "c15a10921bed75a3ec5385e0ecdb6499",
+    "k2": "4e44df62547a1544a4623418918658d0"
+  },
   "AZ7_2": {
     "type": "jw",
     "url": "https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8"
   },
-
-  "TB": {
-    "type": "jw",
-    "url": "https://apollo.production-public.tubi.io/live/fox-en-tubi-dynamic-ad-breaks-aQpF7H.m3u8"
-  },
-
-
   "F51MX_3": {
     "type": "iframe",
     "src": "https://streamtpcloud.com/global2.php?stream=foxsportsmx"
   },
-
   "F51MX_4": {
     "type": "iframe",
     "src": "https://streamtpcloud.com/global1.php?stream=foxsportsmx"
+  },
+  "AZ7_3": {
+    "type": "jw",
+    " url": "https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8"
+  },
+  "AZ7_4": {
+    "type": "jw",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8"
+  },
+  "AZ7D1": {
+    "type": "jw",
+    "url": "https://mdstrm.com/live-stream-playlist/61087e5b8e21e304a159211e.m3u8"
+  },
+  "AZ7D2": {
+    "type": "jw",
+    "url": "https://mdstrm.com/live-stream-playlist/5ff464aaf89edc69bfe55de9.m3u8"
+  },
+  "AZ7D3": {
+    "type": "jw",
+    "url": "https://mdstrm.com/live-stream-playlist/5ff4650032ebd651c24732c8.m3u8"
+  },
+  "TB": {
+    "type": "jw",
+    "url": "https://apollo.production-public.tubi.io/live/fox-en-tubi-dai-iVfxRy.m3u8"
+  },
+  "TB2": {
+    "type": "jw",
+    "url": "https://apollo.production-public.tubi.io/live/fox-en-tubi-dynamic-ad-breaks-aQpF7H.m3u8"
+  },
+  "TB3": {
+    "type": "jw",
+    "url": "https://aegis-cloudfront-1.tubi.video/0b3b6122-078c-4c89-ae5e-f548b9b1e382/playlist.m3u8"
+  },
+  "TB4": {
+    "type": "jw",
+    "url": "https://aegis-cloudfront-1.tubi.video/cb1aab3f-2082-4ee1-a55e-25b817aefb14/playlist.m3u8"
+  },
+  "TB_US": {
+    "type": "jw",
+    "url": "https://apollo.production-public.tubi.io/live/fox-sports-on-tubi-5FPHpS.m3u8"
+  },
+  "ESPND": {
+    "type": "jw",
+    "url": "https://v1.thetvapp.to/hls/espn-deportes/index.m3u8"
+  },
+  "STARS": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/11/out/u/dash/CANAL-2-HD/default.mpd",
+    "k1": "62cc24eaedef1ab322a4d52fd6bf29ad",
+    "k2": "3f80b04b3e2bf3d8543956882da9dd00"
+  },
+  "STARS2": {
+    "type": "jw",
+    "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8"
+  },
+  "F51MX": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/11/out/u/dash/FOX-SPORTS-HD/default.mpd",
+    "k1": "9e276bd34034a2c4dcf61d74e1242fbf",
+    "k2": "4b466a4affb61d2672a4194b14e10ef2"
+  },
+  "F51MX_2": {
+    "type": "jw",
+    "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
+    "k1": "2fbdaa3bea0d0323ae011b318d1db716",
+    "k2": "8726ef7eaf5b9dce15fb6aa9f80bd53f"
+  },
+  "F52MX": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/4/out/u/dash/FOX-SPORTS-2-HD/default.mpd",
+    "k1": "23986dae03fa883ed8e489cbf70f9ec3",
+    "k2": "6a42c42732a9dd1da1205971b2c5c535"
+  },
+  "F52MX_2": {
+    "type": "jw",
+    "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd",
+    "k1": "8836fb04d62dc64c9f8a39ef8640d5eb",
+    "k2": "d4f05ce56c5231b7cdf53455bea58621"
+  },
+  "F53MX": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/11/out/u/dash/FOX-SPORTS-3-HD/default.mpd",
+    "k1": "ed8dd7562fd9f9064bed8d52fa42cc11",
+    "k2": "d65a22cfe5bfbd33d8d25b183649e44f"
+  },
+  "F53MX_2": {
+    "type": "jw",
+    "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd",
+    "k1": "11c8c1c2ef0385cf1e64d44bb9c3a395",
+    "k2": "5769730ffbdc4b2fd8945929d9ace063"
+  },
+  "F5PMX": {
+    "type": "jw",
+    "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+    "k1": "9f327d24c66fbd84e15ab5c9ead7c7a4",
+    "k2": "83837185529c0c4048f81386c2d36426"
+  },
+  "F5PMX_2": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/11/out/u/dash/FOX-SPORTS-PREMIUM-HD/default.mpd",
+    "k1": "0fefd5d94a8cb5b40c057ab182f7dc27",
+    "k2": "5548c4823ff7f1ea61bafb7cbc19e005"
+  },
+  "ESPN1MX": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/11/out/u/dash/ESPNHD/default.mpd",
+    "k1": "bb43112b7b72e9c287da0ecdec8606a7",
+    "k2": "29e3d2678107f0ab0b35b6537c734f2a"
+  },
+  "ESPN1MX_2": {
+    "type": "jw",
+    "url": "https://livedashmx.cdn.startv.tv/bpk-tv/espn/vmx/index.mpd",
+    "k1": "227153e801d97c9c672ddb65d0f7d139",
+    "k2": "2d37b9e083bb849b6e913d817de2b8f2"
+  },
+  "ESPN2MX": {
+    "type": "jw",
+    "url": "https://dish.akamaized.net/Content/DASH/Live/channel(espn_2)/manifest.mpd",
+    "k1": "ae99daa35220336fe9460b9060fa65a9",
+    "k2": "ac284e8e24296f30496d1f39a7138205"
+  },
+  "ESPN2MX_2": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/11/out/u/dash/ESPN-2-HD/default.mpd",
+    "k1": "90e2e491c850a49a5ab21bb6fa6b4d24",
+    "k2": "4d7e33da19b971cef49e35eccdb9de0b"
+  },
+  "ESPN3MX": {
+    "type": "jw",
+    "url": "https://dish.akamaized.net/Content/DASH/Live/channel(espn_3)/manifest.mpd",
+    "k1": "430f38110162f19a042b4dcdc2005140",
+    "k2": "50541179fbd5750aea8767cb6e6b3a7b"
+  },
+  "ESPN3MX_2": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/11/out/u/dash/ESPN-3-HD/default.mpd",
+    "k1": "0355f64277082b903022985035c498ca",
+    "k2": "7a8ed20a4958398677e2c9ccd5a53a00"
+  },
+  "ESPN4MX": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/11/out/u/dash/ESPN4HD/default.mpd",
+    "k1": "666607af08b9eeddaae1d6c36a34d689",
+    "k2": "10fdc24a14e8423f5e5ff03569439b14"
+  },
+  "TVCD": {
+    "type": "jw",
+    "url": "https://dish.akamaized.net/Content/DASH/Live/channel(tvcdeportes)/manifest.mpd",
+    "k1": "ffdd8c79a09c11c5d42bc4f2d85bded7",
+    "k2": "72adc5405cee0fc1288bc75b8ef11759"
+  },
+  "SKYSPORTSMX": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS-16-HD/default.mpd",
+    "k1": "c88dc6c668cac3b468d4a4c7e176ff3d",
+    "k2": "1aeb739de2c14ed0ad658ca8043208d8"
+  },
+  "SKYSPORTS2MX": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/3/out/u/dash/SKY-SPORTS-HD/default.mpd",
+    "k1": "335511dfdf0d03bc06f1fdead5870b5a",
+    "k2": "1a022fb33ad3de4d4579b04966551488"
+  },
+  "SKYSPORTS3MX": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/3/out/u/dash/SKY-SPORTS-21-HD/default.mpd",
+    "k1": "99909032389c6ee41c3d2f3ec829f804",
+    "k2": "41fbc575c8ef1cdac1dca990c9a0df9d"
+  },
+  "SKYSPORTS4MX": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/5/out/u/dash/SKY-SPORTS-24-HD/default.mpd",
+    "k1": "d8d5823d92a9ef9306a4cc4bd634b4b4",
+    "k2": "df9fbdaa0ef9e905b75f4692f213af19"
+  },
+  "SKYLIVEMX": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-1-HD/default.mpd",
+    "k1": "a3636a51227fa338cdddf5892d8a621c",
+    "k2": "1444ee3c4d08bf39454b914f797968eb"
+  },
+  "SKYLIVE2MX": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-2-HD/default.mpd",
+    "k1": "7239a58fb7388b222a834d549bf18d8f",
+    "k2": "8b04a883e88dbdebc43673d998ea1cb2"
+  },
+  "SKYLIVE3MX": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-3-HD/default.mpd",
+    "k1": "561a21ad50f806b77d328dedbe59f93e",
+    "k2": "edf3e70cc9de81a73e2a00fe9c0611a8"
+  },
+  "SKYLIVE4MX": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-4-HD/default.mpd",
+    "k1": "a931b2e953695ffb0cfd38573e97ba33",
+    "k2": "4ddd99cc4fb168d7f0e20be8a3287100"
+  },
+  "SKYLIVE5MX": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKY-LIVE-EVENT-5-HD/default.mpd",
+    "k1": "6c89e84c52eae0428b7d2c8e887a48ec",
+    "k2": "758a1484f920a0f1aa73e95d5f2be225"
+  },
+  "SKYLIVE6MX": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-6-HD/default.mpd",
+    "k1": "ec7229067cde06e0bedaa0d71ec0c974",
+    "k2": "da03b65d333e74aaae446211a83c7595"
+  },
+  "SKYLIVE7MX": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-7-HD/default.mpd",
+    "k1": "d9e3024854648dd01714f781c1492c4c",
+    "k2": "9404541975d298f6787c591d2cc871b1"
+  },
+  "PXSPORTS": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/4/out/u/dash/PX-SPORTS-HD/default.mpd",
+    "k1": "8c53466401bf1c02903470cf41d01b6e",
+    "k2": "90898b3079182c414ecc104ff53dc9b7"
+  },
+  "TNT": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/2/out/u/dash/TNT-HD/default.mpd",
+    "k1": "dca8597f12f8d6928b55c1291c7bb300",
+    "k2": "36c8b3f51d474b95f0adad70899343e1"
+  },
+  "CALIENTETV": {
+    "type": "jw",
+    "url": "https://cdn-calisports-pri-01.vos360.video/Content/Channel/estudionew/DASH/master.mpd",
+    "k1": "6667149228ff1815a7e8deb7830795e8",
+    "k2": "3de937ad80ad2dd6c93be761427160d3"
+  },
+  "CALIENTETV_2": {
+    "type": "jw",
+    "url": "https://dish.akamaized.net/Content/DASH/Live/channel(4f73ec8e-3b3f-51db-2a8d-ac9ae0ff0fa4)/variant.mpd",
+    "k1": "295e29d732648cbb6fa30b2846ce40d0",
+    "k2": "0ab4c85d9fb2bdd8255113f5559b11ac"
+  },
+  "TV4_1 ": {
+    "type": "jw",
+    "url": "https://5ca3e84a76d30.streamlock.net/tv4/videotv4/playlist.m3u8"
+  },
+  "TV4_2 ": {
+    "type": "jw",
+    "url": "https://5f2c1b0d880e5.streamlock.net/tv42/videotv42/playlist.m3u8"
+  },
+  "TV4_3 ": {
+    "type": "jw",
+    "url": "https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8"
+  },
+  "TV4_4 ": {
+    "type": "jw",
+    "url": "https://5ca3e84a76d30.streamlock.net/tv44gto/smil:tv44gto.smil/playlist.m3u8"
+  },
+  "STARTV": {
+    "type": "jw",
+    "url": "https://estrellatv-oando.amagi.tv/playlist.m3u8"
+  },
+  "STARTV_2": {
+    "type": "jw",
+    "url": "https://apollo.production-public.tubi.io/live/estrellatv-mexico-3uip8E.m3u8"
+  },
+  "AMAS": {
+    "type": "jw",
+    "url": "https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8"
+  },
+  "AZ1": {
+    "type": "jw",
+    "url": "https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8"
+  },
+  "TELEM": {
+    "type": "jw",
+    "url": "https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8"
+  },
+  "TELEM_2": {
+    "type": "jw",
+    "url": "https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(kvea)/master.mpd",
+    "k1": "dfb59142ce523a6c900758d5ee4c7997",
+    "k2": "bd2d684e590815190eda056a6d9618bc"
+  },
+  "CS": {
+    "type": "jw",
+    "url": "https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8"
+  },
+  "BEIN": {
+    "type": "jw",
+    "url": "https://cors-proxy.cooks.fyi/https://bein-live.cdn.vustreams.com/live/f0fc61a0-b161-4eef-ae50-646c4f842b37/live.isml/f0fc61a0-b161-4eef-ae50-646c4f842b37.mpd",
+    "k1": "54ef857b74c0c6e37b04022a87708382",
+    "k2": "712ca8c470e9ff4f08915e7a7d91ff33"
+  },
+  "FD": {
+    "type": "jw",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8"
+  },
+  "LIVE": {
+    "type": "jw",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/league/playlist.m3u8"
+  },
+  "AYM": {
+    "type": "jw",
+    "url": "https://aym-as.otteravision.com/aym/as/as.m3u8"
+  },
+  "LAS": {
+    "type": "jw",
+    "url": "https://aym-laspo.otteravision.com/aym/laspo/laspo.m3u8"
+  },
+  "ITV": {
+    "type": "jw",
+    "url": "https://thm-it-roku.otteravision.com/thm/it/it.m3u8"
+  },
+  "NFL": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/11/out/u/dash/NFL-HD/default.mpd",
+    "k1": "9b40cafa23cb7de8418bae6c66159f3a",
+    "k2": "b1bde4692ea730163539adc9a84cc488"
+  },
+  "NBA": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/2/out/u/dash/NBA-HD/default.mpd",
+    "k1": "a5cd47bba986b233d3731297cb62fdf9",
+    "k2": "0d067e22a727ae9f264478f5c2ed903a"
+  },
+  "N4TG30": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/4/out/u/dash/NAT-GEO-HD/default.mpd",
+    "k1": "157c0fb2bfdc323521d52ab43b7fa131",
+    "k2": "6c4af37b6abc72cbcd91aa7716968336"
+  },
+  "ADULTSWIM": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/5/out/u/dash/ADULT-SWIM-HD/default.mpd",
+    "k1": "694fa2e355b31ac2c52d0a56d3d8da59",
+    "k2": "0d7eff2e4dc61d48489555068b0db46a"
+  },
+  "C1N3M4X": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/5/out/u/dash/CINEMAX-HD/default.mpd",
+    "k1": "fa6d1b52dd986d8faab9cca6adb8874b",
+    "k2": "6022259ba9edb1fe66b4507b51e1c12f"
+  },
+  "H80": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-HD/default.mpd",
+    "k1": "df18f6a05bab28d89e5dc01d88f4deb8",
+    "k2": "baceb525467c0db22ba83090616c1ad0"
+  },
+  "H802": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO2-HD/default.mpd",
+    "k1": "09e84fc7ecb71def143cd7e2771f3b35",
+    "k2": "1a91f2d315fb0593321ba60aa783ec2c"
+  },
+  "H80F": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-FAMILY-HD/default.mpd",
+    "k1": "3b1b15c86e64344e8802b06b806957c5",
+    "k2": "114983add26911b589595d931b505ca5"
+  },
+  "H80M": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-MUNDI-HD/default.mpd",
+    "k1": "ba4052ca5eb6f8ff6b98d47d098b2dec",
+    "k2": "bb3e4bfa1821d2bdc25c9a0970e4e3b8"
+  },
+  "H80P": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-POP-HD/default.mpd",
+    "k1": "bcf36f412fa3d735cea04f7443fbf77c",
+    "k2": "6ff29fb2d6b7d825eb06004650a0a4ea"
+  },
+  "H80P1U5": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/default.mpd",
+    "k1": "861ab989089891d84ad0da296954437c",
+    "k2": "3bdf94f9fc1888529f8d27d070d38566"
+  },
+  "H80S": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-SIGNATURE-HD/default.mpd",
+    "k1": "5782156290f035ef28ae66cca252eedd",
+    "k2": "10d8bb6d9f9852747298487ab3c4afa3"
+  },
+  "H80X": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd",
+    "k1": "bc8d4369fcff86db765db82356b4797c",
+    "k2": "8a7e801dbc275e3f4e1f43cba648906a"
+  },
+  "50NY": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/3/out/u/dash/SONY-HD/default.mpd",
+    "k1": "47b8d1118047c47ff9d794fca6c9997a",
+    "k2": "97af829b2dd037fb85550b85b0757685"
+  },
+  "50NYM": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/4/out/u/dash/SONY-MOVIES-HD/default.mpd",
+    "k1": "d6c0b2a5a6d7aa72f6f76f3607364cea",
+    "k2": "29772b450393146e8d1b56107f5163a2"
+  },
+  "N9VE": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/11/out/u/dash/CANAL-9-HD/default.mpd",
+    "k1": "6f7b92c7816d362eb1dec837a3612c40",
+    "k2": "0ffe861fd68a668cdf5b1d869ca86567"
+  },
+  "F0X": {
+    "type": "jw",
+    "url": "https://cdn-calisports-pri-01.vos360.video/Content/LiveEvent/7306f1f4-c2ad-4782-894c-cc625b359d24/DASH/master.mpd",
+    "k1": "35cea0ab0489f9a5a1cf4e051fba0678",
+    "k2": "f9bfcf15106b40069553f2237fc9411c"
+  },
+  "F0X2": {
+    "type": "jw",
+    "url": "https://cdn-calisports-pri-01.vos360.video/Content/LiveEvent/ad9ba629-2a6b-4c0c-ba35-557b6905938c/DASH/master.mpd",
+    "k1": "b6571077d23ea53031e7edaa44fb2313",
+    "k2": "200566185e8b7b3bec20c6de92f8c3ee"
+  },
+  "F0X3": {
+    "type": "jw",
+    "url": "https://cdn-calisports-pri-01.vos360.video/Content/LiveEvent/ea5dbe9a-8891-4ae9-b7ba-6d01e0ac3f6f/DASH/master.mpd",
+    "k1": "37e7a683229c3631d917fb7b962719c5",
+    "k2": "abb49140f2b809db1af89d314b815354"
+  },
+  "F0X4": {
+    "type": "jw",
+    "url": "https://cdn-calisports-pri-01.vos360.video/Content/LiveEvent/6631cf6e-cf9b-43b6-a334-63f6d135f974/DASH/master.mpd",
+    "k1": "557e02ab13b9b4fc8f6bd924d08c267c",
+    "k2": "de300e3170ffceac23723ffd3a679c95"
+  },
+  "5PAC3": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/11/out/u/dash/SPACE-HD/default.mpd",
+    "k1": "02849e7ba3c2e527a9a8152ff111fc22",
+    "k2": "87af284b8fc6be1cbf693f20175671a9"
+  },
+  "T3L3M": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/3/out/u/dash/TELEMUNDO-HD/default.mpd",
+    "k1": "87234ef8a0328b000941fd18bd75d78e",
+    "k2": "2bbbeb8783509a4e77e3b79cd7b1869f"
+  },
+  "T3L3N": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/5/out/u/dash/TLNOVELAS-HD/default.mpd",
+    "k1": "361d47939a32a35422d13728b7089728",
+    "k2": "1d26ccbbc3a3b1f3e3f7e4850a54c6f2"
+  },
+  "DP3L1": {
+    "type": "jw",
+    "url": "https://zap-live1-ott.izzigo.tv/2/out/u/dash/DE-PELICULA-SD/default.mpd",
+    "k1": "208012d154bf5128dc04433c22e00698",
+    "k2": "d17913671a71821ed7e4c4937cd2fba5"
   }
 }
