@@ -1,0 +1,14 @@
+{
+  "rma": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=dsports"
+  },
+  "rma2": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=espndeportes"
+  },
+  "rma3": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=skylaliga"
+  }
+}
