@@ -329,6 +329,10 @@
     "type": "jw",
     "url": "https://live20.bozztv.com/akamaissh101/ssh101/league/playlist.m3u8"
   },
+  "LIVE2": {
+    "type": "iframe",
+    "src": "https://ssh101.com/securelive/index.php?id=league"
+  },
   "AYM": {
     "type": "jw",
     "url": "https://aym-as.otteravision.com/aym/as/as.m3u8"
