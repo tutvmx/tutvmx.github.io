@@ -1,14 +1,158 @@
 {
-  "rma": {
+  "dsports": {
     "type": "iframe",
     "src": "https://streamx10.cloud/global1.php?channel=dsports"
   },
-  "rma2": {
+  "espndeportes": {
     "type": "iframe",
     "src": "https://streamx10.cloud/global1.php?channel=espndeportes"
   },
-  "rma3": {
+  "skylaliga": {
     "type": "iframe",
     "src": "https://streamx10.cloud/global1.php?channel=skylaliga"
+  },
+  "disney1": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=disney1"
+  },
+  "disney2": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=disney2"
+  },
+  "disney3": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=disney3"
+  },
+  "disney4": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=disney4"
+  },
+  "disney5": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=disney5"
+  },
+  "disney6": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=disney6"
+  },
+  "foxone1": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=foxone1"
+  },
+  "foxone2": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=foxone2"
+  },
+  "foxone3": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=foxone3"
+  },
+  "foxone4": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=foxone4"
+  },
+  "foxone5": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=foxone5"
+  },
+  "foxone6": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=foxone6"
+  },
+  "espn": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=espn"
+  },
+  "espn2": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=espn2"
+  },
+  "espn3": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=espn3"
+  },
+  "espn4": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=espn4"
+  },
+  "espn5": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=espn5"
+  },
+  "espn6": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=espn6"
+  },
+  "espn7": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=espn7"
+  },
+  "universo": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=universo"
+  },
+  "max1": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=max1"
+  },
+  "max2": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=max2"
+  },
+  "max3": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=max3"
+  },
+  "max4": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=max4"
+  },
+  "max5": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=max5"
+  },
+  "max6": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=max6"
+  },
+  "espnmx": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=espnmx"
+  },
+  "espn2mx": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=espn2mx"
+  },
+  "espn3mx": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=espn3mx"
+  },
+  "espn4mx": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=espn4mx"
+  },
+  "winsports": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=winsports"
+  },
+  "winplus2": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=winplus2"
+  },
+  "tudnus": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=tudnus"
+  },
+  "tudnmx": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=tudnmx"
+  },
+  "azteca7": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=azteca7"
+  },
+  "canal5": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=canal5"
   }
 }
