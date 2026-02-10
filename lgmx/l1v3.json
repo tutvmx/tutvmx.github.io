@@ -35,6 +35,10 @@
     "type": "iframe",
     "src": "https://streamx10.cloud/global1.php?channel=disney6"
   },
+  "disney7": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=disney7"
+  },
   "foxone1": {
     "type": "iframe",
     "src": "https://streamx10.cloud/global1.php?channel=foxone1"
