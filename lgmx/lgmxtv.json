@@ -327,11 +327,11 @@
   },
   "LIVE": {
     "type": "jw",
-    "url": "https://live20.bozztv.com/akamaissh101/ssh101/league/playlist.m3u8"
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/lgmxtv/playlist.m3u8"
   },
   "LIVE2": {
     "type": "iframe",
-    "src": "https://ssh101.com/securelive/index.php?id=league"
+    "src": "https://ssh101.com/securelive/index.php?id=lgmxtv"
   },
   "AYM": {
     "type": "jw",
