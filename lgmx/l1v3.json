@@ -158,5 +158,17 @@
   "canal5": {
     "type": "iframe",
     "src": "https://streamx10.cloud/global1.php?channel=canal5"
+  },
+  "amazon1": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=amazon1"
+  },
+  "amazon2": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=amazon2"
+  },
+  "amazon3": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=amazon3"
   }
 }
