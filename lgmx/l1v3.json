@@ -170,5 +170,9 @@
   "amazon3": {
     "type": "iframe",
     "src": "https://streamx10.cloud/global1.php?channel=amazon3"
+  },
+  "foxdeportes": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=foxdeportes"
   }
 }
