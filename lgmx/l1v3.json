@@ -174,5 +174,17 @@
   "foxdeportes": {
     "type": "iframe",
     "src": "https://streamx10.cloud/global1.php?channel=foxdeportes"
+  },
+  "eventos1": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=eventos1"
+  },
+  "eventos2": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=eventos2"
+  },
+  "eventos3": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=eventos3"
   }
 }
