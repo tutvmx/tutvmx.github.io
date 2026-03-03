@@ -186,5 +186,29 @@
   "eventos3": {
     "type": "iframe",
     "src": "https://streamx10.cloud/global1.php?channel=eventos3"
+  },
+  "espnplus1": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=espnplus1"
+  },
+  "espnplus2": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=espnplus2"
+  },
+  "espnplus3": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=espnplus3"
+  },
+  "espnplus4": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=espnplus4"
+  },
+  "premier1uk": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=premier1uk"
+  },
+  "ziggo1": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=ziggo1"
   }
 }
