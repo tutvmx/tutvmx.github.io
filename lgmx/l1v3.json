@@ -210,5 +210,9 @@
   "ziggo1": {
     "type": "iframe",
     "src": "https://streamx10.cloud/global1.php?channel=ziggo1"
+  },
+  "skyf1mx": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=skyf1mx"
   }
 }
