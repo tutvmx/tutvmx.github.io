@@ -218,5 +218,9 @@
   "daznf1": {
     "type": "iframe",
     "src": "https://streamx10.cloud/global1.php?channel=daznf1"
+  },
+  "clarosports": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=clarosports"
   }
 }
