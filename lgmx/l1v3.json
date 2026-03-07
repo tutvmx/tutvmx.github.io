@@ -222,5 +222,9 @@
   "clarosports": {
     "type": "iframe",
     "src": "https://streamx10.cloud/global1.php?channel=clarosports"
+  },
+  "canal5mx": {
+    "type": "iframe",
+    "src": "https://streamx10.cloud/global1.php?channel=canal5mx"
   }
 }
