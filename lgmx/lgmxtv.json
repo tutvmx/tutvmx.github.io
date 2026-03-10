@@ -333,6 +333,22 @@
     "type": "iframe",
     "src": "https://ssh101.com/securelive/index.php?id=lgmxtv"
   },
+  "LIVE3": {
+    "type": "iframe",
+    "src": "https://live20.bozztv.com/akamaissh101/ssh101/league/playlist.m3u8"
+  },
+  "LIVE4": {
+    "type": "iframe",
+    "src": "https://ssh101.com/securelive/index.php?id=league"
+  },
+  "LIVE5": {
+    "type": "iframe",
+    "src": "https://live20.bozztv.com/giatv/giatv-leaguemx/leaguemx/playlist.m3u8"
+  },
+  "LIVE6": {
+    "type": "iframe",
+    "src": "https://live20.bozztv.com/giatv/giatv-masy/masy/playlist.m3u8"
+  },
   "AYM": {
     "type": "jw",
     "url": "https://aym-as.otteravision.com/aym/as/as.m3u8"
