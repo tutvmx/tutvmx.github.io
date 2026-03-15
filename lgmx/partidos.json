@@ -1,0 +1,332 @@
+{
+  "grupos": [
+    {
+      "id": "0hyq2k",
+      "nombre": "LIGA MX",
+      "partidos": [
+        {
+          "id": "w8hstb",
+          "equipos": "Atlético San Luis vs Pachuca",
+          "liga": "Liga MX",
+          "hora": "17:00 HRS",
+          "imagen": "https://archive.org/download/morelia-tepatitlan/sanluis-pachuca.png",
+          "enlaces": [
+            {
+              "nombre": "Espn MX",
+              "url": "https://lgmxtv.blogspot.com/p/l1v3.html?r=espnmx"
+            },
+            {
+              "nombre": "Disney +",
+              "url": "https://lgmxtv.blogspot.com/p/l1v3.html?r=disney5"
+            },
+            {
+              "nombre": "Espn MX OP2",
+              "url": "https://lgmxtv.blogspot.com/p/tvs2.html?r=espnmx"
+            },
+            {
+              "nombre": "Disney + OP2",
+              "url": "https://lgmxtv.blogspot.com/p/tvs2.html?r=disney5"
+            },
+            {
+              "nombre": "Espn MX OP3",
+              "url": "https://lgmxtv.blogspot.com/p/tv3.html?r=espnmx"
+            },
+            {
+              "nombre": "Disney + OP3",
+              "url": "https://lgmxtv.blogspot.com/p/tv3.html?r=disney13"
+            },
+            {
+              "nombre": "Espn OP4",
+              "url": "https://lgmxtv.blogspot.com/p/ch2.html?r=925"
+            },
+            {
+              "nombre": "Espn OP5",
+              "url": "https://lgmxtv.blogspot.com/p/tv.html?r=97"
+            }
+          ]
+        },
+        {
+          "id": "0brv7t",
+          "equipos": "Chivas vs Santos Laguna",
+          "liga": "Liga MX",
+          "hora": "17:00 HRS",
+          "imagen": "https://archive.org/download/morelia-tepatitlan/chivas.santos.png",
+          "enlaces": [
+            {
+              "nombre": "Universo HD",
+              "url": "https://lgmxtv.blogspot.com/p/lgmxtv.html?r=UNI"
+            },
+            {
+              "nombre": "Telemundo HD",
+              "url": "https://lgmxtv.blogspot.com/p/lgmxtv.html?r=TEL"
+            },
+            {
+              "nombre": "Universo OP2",
+              "url": "https://lgmxtv.blogspot.com/p/l1v3.html?r=universo"
+            },
+            {
+              "nombre": "Amazon",
+              "url": "https://lgmxtv.blogspot.com/p/l1v3.html?r=amazon1"
+            },
+            {
+              "nombre": "Universo OP2",
+              "url": "https://lgmxtv.blogspot.com/p/tvs2.html?r=universo_usa"
+            },
+            {
+              "nombre": "Universo OP3",
+              "url": "https://lgmxtv.blogspot.com/p/tv3.html?r=universo"
+            },
+            {
+              "nombre": "Telemundo OP2",
+              "url": "https://lgmxtv.blogspot.com/p/tv3.html?r=telemundo"
+            },
+            {
+              "nombre": "Universo OP4",
+              "url": "https://lgmxtv.blogspot.com/p/ch2.html?r=845"
+            },
+            {
+              "nombre": "Telemundo OP3",
+              "url": "https://lgmxtv.blogspot.com/p/ch2.html?r=131"
+            },
+            {
+              "nombre": "Universo OP5",
+              "url": "https://lgmxtv.blogspot.com/p/tv.html?r=72"
+            },
+            {
+              "nombre": "Telemundo OP¨4",
+              "url": "https://lgmxtv.blogspot.com/p/tv.html?r=73"
+            }
+          ]
+        },
+        {
+          "id": "p9a2e1",
+          "equipos": "Toluca vs Atlas",
+          "liga": "Liga MX",
+          "hora": "19:00 HRS",
+          "imagen": "https://tutvmx.github.io/img/toluca-atlas.png",
+          "enlaces": [
+            {
+              "nombre": "TUDN USA",
+              "url": "https://lgmxtv.blogspot.com/p/l1v3.html?r=tudnus"
+            },
+            {
+              "nombre": "Canal 5 MX",
+              "url": "https://lgmxtv.blogspot.com/p/l1v3.html?r=canal5mx"
+            },
+            {
+              "nombre": "TUDN USA OP2",
+              "url": "https://lgmxtv.blogspot.com/p/tvs2.html?r=tudn_usa"
+            },
+            {
+              "nombre": "Canal 5 MX OP2",
+              "url": "https://lgmxtv.blogspot.com/p/tvs2.html?r=canal5mx"
+            },
+            {
+              "nombre": "TUDN USA OP3",
+              "url": "https://lgmxtv.blogspot.com/p/tv3.html?r=tudn"
+            },
+            {
+              "nombre": "Canal 5 MX OP3",
+              "url": "https://lgmxtv.blogspot.com/p/tv3.html?r=canal5"
+            },
+            {
+              "nombre": "TUDN USA OP4",
+              "url": "https://lgmxtv.blogspot.com/p/ch2.html?r=66"
+            },
+            {
+              "nombre": "Univision",
+              "url": "https://lgmxtv.blogspot.com/p/ch2.html?r=132"
+            },
+            {
+              "nombre": "Canal 5 MX OP4",
+              "url": "https://lgmxtv.blogspot.com/p/tv.html?r=107"
+            },
+            {
+              "nombre": "TUDN MX",
+              "url": "https://lgmxtv.blogspot.com/p/tv.html?r=106"
+            },
+            {
+              "nombre": "TUDN USA OP5",
+              "url": "https://lgmxtv.blogspot.com/p/tv.html?r=68"
+            },
+            {
+              "nombre": "TUDN USA HD (solo estados unidos)",
+              "url": "https://lgmxtv.blogspot.com/p/us.html?r=2DN"
+            },
+            {
+              "nombre": "Univision HD (solo estados unidos)",
+              "url": "https://lgmxtv.blogspot.com/p/us.html?r=UNI"
+            },
+            {
+              "nombre": "Univision HD OP2 (solo estados unidos)",
+              "url": "https://lgmxtv.blogspot.com/p/us.html?r=UNI_2"
+            },
+            {
+              "nombre": "Univision HD OP3 (solo estados unidos)",
+              "url": "https://lgmxtv.blogspot.com/p/us.html?r=UNI_3"
+            }
+          ]
+        },
+        {
+          "id": "o9r1c7",
+          "equipos": "Leon vs Tijuana",
+          "liga": "Liga MX",
+          "hora": "19:00 HRS",
+          "imagen": "https://tutvmx.github.io/img/leon-tijuana.png",
+          "enlaces": [
+            {
+              "nombre": "Fox ONE",
+              "url": "https://lgmxtv.blogspot.com/p/l1v3.html?r=foxone2"
+            },
+            {
+              "nombre": "Fanatiz",
+              "url": "https://lgmxtv.blogspot.com/p/tvs2.html?r=fanatiz7"
+            },
+            {
+              "nombre": "Stream",
+              "url": "https://lgmxtv.blogspot.com/p/tv.html?r=158"
+            }
+          ]
+        },
+        {
+          "id": "tk7yek",
+          "equipos": "Pumas vs Cruz Azul",
+          "liga": "Liga MX",
+          "hora": "21:10",
+          "imagen": "https://tutvmx.github.io/img/pumas-cruzazul.png",
+          "enlaces": [
+            {
+              "nombre": "TUDN USA",
+              "url": "https://lgmxtv.blogspot.com/p/l1v3.html?r=tudnus"
+            },
+            {
+              "nombre": "Canal 5 MX",
+              "url": "https://lgmxtv.blogspot.com/p/l1v3.html?r=canal5mx"
+            },
+            {
+              "nombre": "TUDN USA OP2",
+              "url": "https://lgmxtv.blogspot.com/p/tvs2.html?r=tudn_usa"
+            },
+            {
+              "nombre": "Canal 5 MX OP2",
+              "url": "https://lgmxtv.blogspot.com/p/tvs2.html?r=canal5mx"
+            },
+            {
+              "nombre": "TUDN USA OP3",
+              "url": "https://lgmxtv.blogspot.com/p/tv3.html?r=tudn"
+            },
+            {
+              "nombre": "Canal 5 MX OP3",
+              "url": "https://lgmxtv.blogspot.com/p/tv3.html?r=canal5"
+            },
+            {
+              "nombre": "TUDN USA OP4",
+              "url": "https://lgmxtv.blogspot.com/p/ch2.html?r=66"
+            },
+            {
+              "nombre": "Univision",
+              "url": "https://lgmxtv.blogspot.com/p/ch2.html?r=132"
+            },
+            {
+              "nombre": "Canal 5 MX OP4",
+              "url": "https://lgmxtv.blogspot.com/p/tv.html?r=107"
+            },
+            {
+              "nombre": "TUDN MX",
+              "url": "https://lgmxtv.blogspot.com/p/tv.html?r=106"
+            },
+            {
+              "nombre": "TUDN USA OP5",
+              "url": "https://lgmxtv.blogspot.com/p/tv.html?r=68"
+            },
+            {
+              "nombre": "TUDN USA HD (solo estados unidos)",
+              "url": "https://lgmxtv.blogspot.com/p/us.html?r=2DN"
+            },
+            {
+              "nombre": "Univision HD (solo estados unidos)",
+              "url": "https://lgmxtv.blogspot.com/p/us.html?r=UNI"
+            },
+            {
+              "nombre": "Univision HD OP2 (solo estados unidos)",
+              "url": "https://lgmxtv.blogspot.com/p/us.html?r=UNI_2"
+            },
+            {
+              "nombre": "Univision HD OP3 (solo estados unidos)",
+              "url": "https://lgmxtv.blogspot.com/p/us.html?r=UNI_3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9znz7h",
+      "nombre": "Liga De Expansion mx",
+      "partidos": [
+        {
+          "id": "jrh358",
+          "equipos": "Atlético Morelia vs Tepatitlan",
+          "liga": "Liga De Expansión MX",
+          "hora": "19:00 HRS",
+          "imagen": "https://tutvmx.github.io/img/morelia-tepatitlan.png",
+          "enlaces": [
+            {
+              "nombre": "AYM Sports HD",
+              "url": "https://lgmxtv.blogspot.com/p/tvs.html?r=AYM"
+            },
+            {
+              "nombre": "AYM Sports",
+              "url": "https://lgmxtv.blogspot.com/p/tv.html?r=105"
+            }
+          ]
+        },
+        {
+          "id": "e2caa8",
+          "equipos": "Cancún vs Atlético La Paz",
+          "liga": "Liga De Expansión MX",
+          "hora": "19:00 HRS",
+          "imagen": "https://tutvmx.github.io/img/cancun-lapaz.png",
+          "enlaces": [
+            {
+              "nombre": "Latin American Sports HD",
+              "url": "https://lgmxtv.blogspot.com/p/tvs.html?r=LAS"
+            },
+            {
+              "nombre": "Stream",
+              "url": "https://lgmxtv.blogspot.com/p/tv.html?r=159"
+            },
+            {
+              "nombre": "ITV HD",
+              "url": "https://lgmxtv.blogspot.com/p/tvs.html?r=ITV"
+            }
+          ]
+        },
+        {
+          "id": "qqk3ky",
+          "equipos": "Dorados vs Leones Negros",
+          "liga": "Liga De Expansión MX",
+          "hora": "21:00 HRS",
+          "imagen": "https://tutvmx.github.io/img/dorados-udg.png",
+          "enlaces": [
+            {
+              "nombre": "ESPN 4 MX",
+              "url": "https://lgmxtv.blogspot.com/p/l1v3.html?r=espn4mx"
+            },
+            {
+              "nombre": "ESPN 4 MX OP2",
+              "url": "https://lgmxtv.blogspot.com/p/tv3.html?r=espn4mx"
+            },
+            {
+              "nombre": "ESPN 4 MX OP3",
+              "url": "https://lgmxtv.blogspot.com/p/ch2.html?r=928"
+            },
+            {
+              "nombre": "ESPN 4 MX OP4",
+              "url": "https://lgmxtv.blogspot.com/p/tv.html?r="
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
