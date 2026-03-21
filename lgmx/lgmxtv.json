@@ -1,15 +1,33 @@
 {
-  "2DNMX": {
+  "2DNMX2": {
     "type": "jw",
     "url": "https://zap-live1-ott.izzigo.tv/11/out/u/dash/TUDN-HD/default.mpd",
     "k1": "2722647f77b44824c432a3c4555830a2",
     "k2": "1734befb82f4b438bd84195f6c212e7b"
   },
+  "2DNMX": {
+    "type": "jw",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd",
+    "k1": "5f096c1f9e243b31ddc3bf4f5d88fc5f",
+    "k2": "27334536d6077737b321c64663ebf59d"
+  },
   "C5": {
+    "type": "jw",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash-sd/enc/ffwkol9rr3/out/v1/c5f712f414b64736ba9cb11e9d3cd554/cenc-sd.mpd",
+    "k1": "c630b9d02c9eee970976e33e9d98ca16",
+    "k2": "6517788f3f04875bc83f34710b1d87e4"
+  },
+  "C52": {
     "type": "jw",
     "url": "https://zap-live1-ott.izzigo.tv/2/out/u/dash/CANAL-5-HD/default.mpd",
     "k1": "578f77c2e0fb7b31b1676b75b57fe922",
     "k2": "6e5ee266b112e58a0e27e4384b03ed76"
+  },
+  "C9": {
+    "type": "jw",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash-sd/enc/pz4dlw4rjn/out/v1/2c1c080f26834fc9b7a6c2459f92e031/cenc-sd.mpd",
+    "k1": "eb3707eac345108dc497b896567ac39c",
+    "k2": "79885a869e49426149b117afe8a1b887"
   },
   "AZ7": {
     "type": "jw",
