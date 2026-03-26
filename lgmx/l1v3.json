@@ -254,5 +254,9 @@
   "fox2usa": {
     "type": "iframe",
     "src": "https://streamx339.cloud/global1.php?channel=fox2usa"
+  },
+  "cazetv1": {
+    "type": "iframe",
+    "src": "https://streamx339.cloud/global1.php?channel=cazetv1"
   }
 }
