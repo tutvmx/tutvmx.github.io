@@ -242,5 +242,17 @@
   "premier1uk": {
     "type": "iframe",
     "src": "https://streamx339.cloud/global1.php?channel=premier1uk"
+  },
+  "espn2ar": {
+    "type": "iframe",
+    "src": "https://streamx339.cloud/global1.php?channel=espn2ar"
+  },
+  "sportv1": {
+    "type": "iframe",
+    "src": "https://streamx339.cloud/global1.php?channel=sportv1"
+  },
+  "fox2usa": {
+    "type": "iframe",
+    "src": "https://streamx339.cloud/global1.php?channel=fox2usa"
   }
 }
