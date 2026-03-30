@@ -1,0 +1,104 @@
+{
+  "UNI": {
+    "type": "jw",
+    "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
+    "k1": "96b67fa09140329a89b7a1ead134eda3",
+    "k2": "c618d32c56cdc6cad8330eb98507ca3f"
+  },
+  "TEL": {
+    "type": "jw",
+    "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(KDEN)/master.mpd",
+    "k1": "2a195c95880e37688286e0a6117a336f",
+    "k2": "e6cba1c52ebee16289775f5164daece7"
+  },
+  "TNTGB1": {
+    "type": "jw",
+    "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+    "k1": "294b5761cefc22d0c6312939e13d8278",
+    "k2": "52148f1042d238849f0a7813f1da8a7b"
+  },
+  "TNTGB2": {
+    "type": "jw",
+    "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+    "k1": "f288380ca4cef9ad3f27a92a08e9bb8b",
+    "k2": "9f18d26291d9230833501f7f822f6875"
+  },
+  "TNTGB3": {
+    "type": "jw",
+    "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
+    "k1": "1d96ab366bbe6451edf7407b58e2fa16",
+    "k2": "0116201f4a63ac5bf5787d2c610c41a7"
+  },
+  "TNTGB4": {
+    "type": "jw",
+    "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
+    "k1": "192b1115da041585c77200128549efa1",
+    "k2": "634e10efe4abbb14be400a3ccbac0258"
+  },
+  "TNTGB5": {
+    "type": "jw",
+    "url": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd",
+    "k1": "60c0d9b41475e01db4ffb91ed557fbcc",
+    "k2": "36ee40e58948ca15e3caba8d47b8f34b"
+  },
+  "lltv": {
+    "type": "jw",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+    "k1": "620e51b82596475517a27aa425c52280",
+    "k2": "2b9ba811e9c5aeafc8ae1b71cdca4d6a"
+  },
+  "lltv2": {
+    "type": "jw",
+    "url": "https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+    "k1": "620e51b82596475517a27aa425c52280",
+    "k2": "2b9ba811e9c5aeafc8ae1b71cdca4d6a"
+  },
+  "CAZE_TV1": {
+    "type": "jw",
+    "url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
+    "k1": "34475edab991ad5e92548aebd710410a",
+    "k2": "501b209cccd323ac00bf5ac15b406cb4"
+  },
+  "C85": {
+    "type": "jw",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+    "k1": "d9623774ac5c8c351aafe97c5fe70267",
+    "k2": "5164e6d05164a2d65fa8fcc962aa4861"
+  },
+  "FSD": {
+    "type": "jw",
+    "url": "https://otte-netskrt.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+    "k1": "d1a163914db8ffad2c3e94f979896a0d",
+    "k2": "9728800a3959aafdd5b0bcfbf3768811"
+  },
+  "F0X": {
+    "type": "jw",
+    "url": "https://cdn-calisports-pri-01.vos360.video/Content/LiveEvent/c266098d-4560-41db-b658-4ad044ad835d/DASH/master.mpd",
+    "k1": "f0e49b33d58b14abb930ddeb3b258157",
+    "k2": "9f292ec08ad3296e1b841f6dd8fa37c4"
+  },
+  "F51": {
+    "type": "jw",
+    "url": "https://otte-netskrt.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd",
+    "k1": "5466ebd70704bdeb657f0abf3c5ca4ef",
+    "k2": "bdd79b72d8e48ed483aa623cc38a8a16"
+  },
+  "F52": {
+    "type": "jw",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+    "k1": "09453ce820d65fbc675de3185f9e454c",
+    "k2": "98cff9600995fa381c76fdacf3c7edae"
+  },
+  "AZ7_2": {
+    "type": "jw",
+    "url": "https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8"
+  },
+  "LIGAMX1": {
+    "type": "iframe",
+    "src": "https://rojadirectatve.com/repro/tudnusa.html"
+  },
+  "CH1": {
+    "type": "iframe",
+    "src": "#"
+  }
+}
