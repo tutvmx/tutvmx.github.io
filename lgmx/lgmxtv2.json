@@ -97,8 +97,105 @@
     "type": "iframe",
     "src": "https://rojadirectatve.com/repro/tudnusa.html"
   },
+  const channels = {
   "CH1": {
     "type": "iframe",
-    "src": "#"
+    "src": "https://embedsports.top/embed/admin/ppv-bosnia-and-herzegovina-vs-italy/1#player=clappr#autoplay=true"
+  },
+  "CH2": {
+    "type": "iframe",
+    "src": "https://embedsports.top/embed/admin/ppv-bosnia-and-herzegovina-vs-italy/2#player=clappr#autoplay=true"
+  },
+  "CH3": {
+    "type": "iframe",
+    "src": "https://embedsports.top/embed/admin/ppv-bosnia-and-herzegovina-vs-italy/3#player=clappr#autoplay=true"
+  },
+  "CH4": {
+    "type": "iframe",
+    "src": "https://embedsports.top/embed/echo/bosnia-herzegovina-vs-italy-football-1537578/1#player=clappr#autoplay=true"
+  },
+  "CH5": {
+    "type": "iframe",
+    "src": "https://embedsports.top/embed/echo/bosnia-herzegovina-vs-italy-football-1537578/2#player=clappr#autoplay=true"
+  },
+  "CH6": {
+    "type": "iframe",
+    "src": "https://embedsports.top/embed/echo/bosnia-herzegovina-vs-italy-football-1537578/3#player=clappr#autoplay=true"
+  },
+  "CH7": {
+    "type": "iframe",
+    "src": "https://embedsports.top/embed/echo/bosnia-herzegovina-vs-italy-football-1537578/4#player=clappr#autoplay=true"
+  },
+  "CH8": {
+    "type": "iframe",
+    "src": "https://embedsports.top/embed/admin/ppv-czechia-vs-denmark/1#player=clappr#autoplay=true"
+  },
+  "CH9": {
+    "type": "iframe",
+    "src": "https://embedsports.top/embed/admin/ppv-czechia-vs-denmark/2#player=clappr#autoplay=true"
+  },
+  "CH10": {
+    "type": "iframe",
+    "src": "https://embedsports.top/embed/admin/ppv-czechia-vs-denmark/3#player=clappr#autoplay=true"
+  },
+  "CH11": {
+    "type": "iframe",
+    "src": "https://embedsports.top/embed/admin/ppv-sweden-vs-poland/1#player=clappr#autoplay=true"
+  },
+  "CH12": {
+    "type": "iframe",
+    "src": "https://embedsports.top/embed/admin/ppv-sweden-vs-poland/2#player=clappr#autoplay=true"
+  },
+  "CH13": {
+    "type": "iframe",
+    "src": "https://embedsports.top/embed/admin/ppv-sweden-vs-poland/3#player=clappr#autoplay=true"
+  },
+  "CH14": {
+    "type": "iframe",
+    "src": "https://embedsports.top/embed/echo/sweden-vs-poland-football-1537581/1#player=clappr#autoplay=true"
+  },
+  "CH15": {
+    "type": "iframe",
+    "src": "https://embedsports.top/embed/echo/sweden-vs-poland-football-1537581/2#player=clappr#autoplay=true"
+  },
+  "CH16": {
+    "type": "iframe",
+    "src": "https://embedsports.top/embed/echo/sweden-vs-poland-football-1537581/3#player=clappr#autoplay=true"
+  },
+  "CH17": {
+    "type": "iframe",
+    "src": "https://embedsports.top/embed/echo/sweden-vs-poland-football-1537581/4#player=clappr#autoplay=true"
+  },
+  "CH18": {
+    "type": "iframe",
+    "src": "https://embedsports.top/embed/echo/sweden-vs-poland-football-1537581/5#player=clappr#autoplay=true"
+  },
+  "CH19": {
+    "type": "iframe",
+    "src": "https://embedsports.top/embed/admin/ppv-kosovo-vs-t-rkiye/1#player=clappr#autoplay=true"
+  },
+  "CH20": {
+    "type": "iframe",
+    "src": "https://embedsports.top/embed/admin/ppv-kosovo-vs-t-rkiye/2#player=clappr#autoplay=true"
+  },
+  "CH21": {
+    "type": "iframe",
+    "src": "https://embedsports.top/embed/admin/ppv-kosovo-vs-t-rkiye/3#player=clappr#autoplay=true"
+  },
+  "CH22": {
+    "type": "iframe",
+    "src": "https://embedsports.top/embed/echo/kosovo-vs-turkiye-football-1537580/1#player=clappr#autoplay=true"
+  },
+  "CH23": {
+    "type": "iframe",
+    "src": "https://embedsports.top/embed/echo/kosovo-vs-turkiye-football-1537580/2#player=clappr#autoplay=true"
+  },
+  "CH24": {
+    "type": "iframe",
+    "src": "https://embedsports.top/embed/echo/kosovo-vs-turkiye-football-1537580/3#player=clappr#autoplay=true"
+  },
+  "CH25": {
+    "type": "iframe",
+    "src": "https://embedsports.top/embed/echo/kosovo-vs-turkiye-football-1537580/4#player=clappr#autoplay=true"
   }
 }
