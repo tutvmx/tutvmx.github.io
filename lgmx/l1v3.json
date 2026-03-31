@@ -278,5 +278,9 @@
   "foxsports2_usa": {
     "type": "iframe",
     "src": "https://streamx339.cloud/global1.php?channel=foxsports2_usa"
+  },
+  "telemundo_ahora": {
+    "type": "iframe",
+    "src": "https://streamx339.cloud/global1.php?channel=telemundo_ahora"
   }
 }
