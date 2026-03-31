@@ -89,6 +89,24 @@
     "k1": "09453ce820d65fbc675de3185f9e454c",
     "k2": "98cff9600995fa381c76fdacf3c7edae"
   },
+  "5P0RTV": {
+    "type": "jw",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd",
+    "k1": "eaea45512d137def15b209a089cafd14",
+    "k2": "8d42db746ed0c4df61729b0d68d42bd7"
+  },
+  "5P0RTV2": {
+    "type": "jw",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
+    "k1": "9009b7189e3e68cc09d17811f2beb55a",
+    "k2": "dd3f96a94c909da48ff40c92aabf8cf3"
+  },
+  "5P0RTV3": {
+    "type": "jw",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
+    "k1": "902e5ec0e3d05e665daa32fc23f4f59e",
+    "k2": "7b2322a273843921a43e2c61dac7cae3"
+  },
   "AZ7_2": {
     "type": "jw",
     "url": "https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8"
