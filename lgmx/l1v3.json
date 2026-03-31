@@ -39,6 +39,22 @@
     "type": "iframe",
     "src": "https://streamx339.cloud/global1.php?channel=disney7"
   },
+  "disney8": {
+    "type": "iframe",
+    "src": "https://streamx339.cloud/global1.php?channel=disney8"
+  },
+  "disney9": {
+    "type": "iframe",
+    "src": "https://streamx339.cloud/global1.php?channel=disney9"
+  },
+  "disney10": {
+    "type": "iframe",
+    "src": "https://streamx339.cloud/global1.php?channel=disney10"
+  },
+  "disney11": {
+    "type": "iframe",
+    "src": "https://streamx339.cloud/global1.php?channel=disney11"
+  },
   "foxone1": {
     "type": "iframe",
     "src": "https://streamx339.cloud/global1.php?channel=foxone1"
@@ -258,5 +274,9 @@
   "cazetv1": {
     "type": "iframe",
     "src": "https://streamx339.cloud/global1.php?channel=cazetv1"
-  }
+  },
+  "foxsports2_usa": {
+    "type": "iframe",
+    "src": "https://streamx339.cloud/global1.php?channel=foxsports2_usa"
+  },
 }
