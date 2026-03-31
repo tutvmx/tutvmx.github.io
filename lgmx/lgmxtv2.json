@@ -136,56 +136,11 @@
     "type": "iframe",
     "src": "https://embedsports.top/embed/admin/ppv-congo-dr-vs-jamaica/3#player=clappr#autoplay=true"
   },
-  "CH13": {
-    "type": "iframe",
-    "src": "https://embedsports.top/embed/admin/ppv-sweden-vs-poland/3#player=clappr#autoplay=true"
-  },
-  "CH14": {
-    "type": "iframe",
-    "src": "https://embedsports.top/embed/echo/sweden-vs-poland-football-1537581/1#player=clappr#autoplay=true"
-  },
-  "CH15": {
-    "type": "iframe",
-    "src": "https://embedsports.top/embed/echo/sweden-vs-poland-football-1537581/2#player=clappr#autoplay=true"
-  },
-  "CH16": {
-    "type": "iframe",
-    "src": "https://embedsports.top/embed/echo/sweden-vs-poland-football-1537581/3#player=clappr#autoplay=true"
-  },
-  "CH17": {
-    "type": "iframe",
-    "src": "https://embedsports.top/embed/echo/sweden-vs-poland-football-1537581/4#player=clappr#autoplay=true"
-  },
-  "CH18": {
-    "type": "iframe",
-    "src": "https://embedsports.top/embed/echo/sweden-vs-poland-football-1537581/5#player=clappr#autoplay=true"
-  },
-  "CH19": {
-    "type": "iframe",
-    "src": "https://embedsports.top/embed/admin/ppv-kosovo-vs-t-rkiye/1#player=clappr#autoplay=true"
-  },
-  "CH20": {
-    "type": "iframe",
-    "src": "https://embedsports.top/embed/admin/ppv-kosovo-vs-t-rkiye/2#player=clappr#autoplay=true"
-  },
-  "CH21": {
-    "type": "iframe",
-    "src": "https://embedsports.top/embed/admin/ppv-kosovo-vs-t-rkiye/3#player=clappr#autoplay=true"
-  },
-  "CH22": {
-    "type": "iframe",
-    "src": "https://embedsports.top/embed/echo/kosovo-vs-turkiye-football-1537580/1#player=clappr#autoplay=true"
-  },
-  "CH23": {
-    "type": "iframe",
-    "src": "https://embedsports.top/embed/echo/kosovo-vs-turkiye-football-1537580/2#player=clappr#autoplay=true"
-  },
-  "CH24": {
-    "type": "iframe",
-    "src": "https://embedsports.top/embed/echo/kosovo-vs-turkiye-football-1537580/3#player=clappr#autoplay=true"
-  },
-  "CH25": {
-    "type": "iframe",
-    "src": "https://embedsports.top/embed/echo/kosovo-vs-turkiye-football-1537580/4#player=clappr#autoplay=true"
-  }
+    "CH13": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-argentina-vs-zambia/1#player=clappr#autoplay=true" },
+  "CH14": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-argentina-vs-zambia/2#player=clappr#autoplay=true" },
+  "CH15": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-argentina-vs-zambia/3#player=clappr#autoplay=true" },
+  "CH16": { "type": "iframe", "src": "https://embedsports.top/embed/delta/live_int-friendly-games_argentina-zambia-live-streaming-1238965794/1#player=clappr#autoplay=true" },
+  "CH17": { "type": "iframe", "src": "https://embedsports.top/embed/echo/argentina-vs-zambia-football-1536923/1#player=clappr#autoplay=true" },
+  "CH18": { "type": "iframe", "src": "https://embedsports.top/embed/echo/argentina-vs-zambia-football-1536923/2#player=clappr#autoplay=true" },
+  "CH19": { "type": "iframe", "src": "https://embedsports.top/embed/echo/argentina-vs-zambia-football-1536923/3#player=clappr#autoplay=true" }
 }
