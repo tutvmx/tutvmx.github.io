@@ -142,5 +142,13 @@
   "CH16": { "type": "iframe", "src": "https://embedsports.top/embed/delta/live_int-friendly-games_argentina-zambia-live-streaming-1238965794/1#player=clappr#autoplay=true" },
   "CH17": { "type": "iframe", "src": "https://embedsports.top/embed/echo/argentina-vs-zambia-football-1536923/1#player=clappr#autoplay=true" },
   "CH18": { "type": "iframe", "src": "https://embedsports.top/embed/echo/argentina-vs-zambia-football-1536923/2#player=clappr#autoplay=true" },
-  "CH19": { "type": "iframe", "src": "https://embedsports.top/embed/echo/argentina-vs-zambia-football-1536923/3#player=clappr#autoplay=true" }
+  "CH19": { "type": "iframe", "src": "https://embedsports.top/embed/echo/argentina-vs-zambia-football-1536923/3#player=clappr#autoplay=true" },
+    "CH20": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-brazil-vs-croatia/1#player=clappr#autoplay=true" },
+  "CH21": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-brazil-vs-croatia/2#player=clappr#autoplay=true" },
+  "CH22": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-brazil-vs-croatia/3#player=clappr#autoplay=true" },
+  "CH23": { "type": "iframe", "src": "https://embedsports.top/embed/delta/live_int-friendly-games_croatia-brazil-live-streaming-1238967792/1#player=clappr#autoplay=true" },
+  "CH24": { "type": "iframe", "src": "https://embedsports.top/embed/echo/brazil-vs-croatia-football-1501817/1#player=clappr#autoplay=true" },
+  "CH25": { "type": "iframe", "src": "https://embedsports.top/embed/echo/brazil-vs-croatia-football-1501817/2#player=clappr#autoplay=true" },
+  "CH26": { "type": "iframe", "src": "https://embedsports.top/embed/echo/brazil-vs-croatia-football-1501817/3#player=clappr#autoplay=true" },
+  "CH27": { "type": "iframe", "src": "https://embedsports.top/embed/echo/brazil-vs-croatia-football-1501817/4#player=clappr#autoplay=true" }
 }
