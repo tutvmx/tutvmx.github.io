@@ -115,47 +115,6 @@
     "type": "iframe",
     "src": "https://rojadirectatve.com/repro/tudnusa.html"
   },
-    "CH1": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-iraq-vs-bolivia/1#player=clappr#autoplay=true" },
-  "CH2": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-iraq-vs-bolivia/2#player=clappr#autoplay=true" },
-  "CH3": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-iraq-vs-bolivia/3#player=clappr#autoplay=true" },
-  "CH4": { "type": "iframe", "src": "https://embedsports.top/embed/echo/iraq-vs-bolivia-football-1537583/1#player=clappr#autoplay=true" },
-  "CH5": { "type": "iframe", "src": "https://embedsports.top/embed/echo/iraq-vs-bolivia-football-1537583/2#player=clappr#autoplay=true" },
-  "CH6": { "type": "iframe", "src": "https://embedsports.top/embed/echo/usa-vs-portugal-football-1503004/2#player=clappr#autoplay=true" },
-  "CH7": { "type": "iframe", "src": "https://embedsports.top/embed/echo/usa-vs-portugal-football-1503004/3#player=clappr#autoplay=true" },
-  "CH8": { "type": "iframe", "src": "https://embedsports.top/embed/echo/usa-vs-portugal-football-1503004/3#player=clappr#autoplay=true" },
-  "CH9": { "type": "iframe", "src": "https://embedsports.top/embed/echo/usa-vs-portugal-football-1503004/5#player=clappr#autoplay=true" },
-  "CH10": {
-    "type": "iframe",
-    "src": "https://embedsports.top/embed/admin/ppv-congo-dr-vs-jamaica/1#player=clappr#autoplay=true"
-  },
-  "CH11": {
-    "type": "iframe",
-    "src": "https://embedsports.top/embed/admin/ppv-congo-dr-vs-jamaica/2#player=clappr#autoplay=true"
-  },
-  "CH12": {
-    "type": "iframe",
-    "src": "https://embedsports.top/embed/admin/ppv-congo-dr-vs-jamaica/3#player=clappr#autoplay=true"
-  },
-    "CH13": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-argentina-vs-zambia/1#player=clappr#autoplay=true" },
-  "CH14": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-argentina-vs-zambia/2#player=clappr#autoplay=true" },
-  "CH15": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-argentina-vs-zambia/3#player=clappr#autoplay=true" },
-  "CH16": { "type": "iframe", "src": "https://embedsports.top/embed/delta/live_int-friendly-games_argentina-zambia-live-streaming-1238965794/1#player=clappr#autoplay=true" },
-  "CH17": { "type": "iframe", "src": "https://embedsports.top/embed/echo/argentina-vs-zambia-football-1536923/1#player=clappr#autoplay=true" },
-  "CH18": { "type": "iframe", "src": "https://embedsports.top/embed/echo/argentina-vs-zambia-football-1536923/2#player=clappr#autoplay=true" },
-  "CH19": { "type": "iframe", "src": "https://embedsports.top/embed/echo/argentina-vs-zambia-football-1536923/3#player=clappr#autoplay=true" },
-    "CH20": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-brazil-vs-croatia/1#player=clappr#autoplay=true" },
-  "CH21": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-brazil-vs-croatia/2#player=clappr#autoplay=true" },
-  "CH22": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-brazil-vs-croatia/3#player=clappr#autoplay=true" },
-  "CH23": { "type": "iframe", "src": "https://embedsports.top/embed/delta/live_int-friendly-games_croatia-brazil-live-streaming-1238967792/1#player=clappr#autoplay=true" },
-  "CH24": { "type": "iframe", "src": "https://embedsports.top/embed/echo/brazil-vs-croatia-football-1501817/1#player=clappr#autoplay=true" },
-  "CH25": { "type": "iframe", "src": "https://embedsports.top/embed/echo/brazil-vs-croatia-football-1501817/2#player=clappr#autoplay=true" },
-  "CH26": { "type": "iframe", "src": "https://embedsports.top/embed/echo/brazil-vs-croatia-football-1501817/3#player=clappr#autoplay=true" },
-  "CH27": { "type": "iframe", "src": "https://embedsports.top/embed/echo/brazil-vs-croatia-football-1501817/4#player=clappr#autoplay=true" },
-  "CH28": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-mexico-vs-belgium/1#player=clappr#autoplay=true" },
-  "CH29": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-mexico-vs-belgium/2#player=clappr#autoplay=true" },
-  "CH30": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-mexico-vs-belgium/3#player=clappr#autoplay=true" },
-  "CH31": { "type": "iframe", "src": "https://embedsports.top/embed/delta/live_int-friendly-games_mexico-belgium-live-streaming-1238968791/1#player=clappr#autoplay=true" },
-  "CH32": { "type": "iframe", "src": "https://embedsports.top/embed/echo/mexico-vs-belgium-football-1514471/1#player=clappr#autoplay=true" },
-  "CH33": { "type": "iframe", "src": "https://embedsports.top/embed/echo/mexico-vs-belgium-football-1514471/2#player=clappr#autoplay=true" },
-  "CH34": { "type": "iframe", "src": "https://embedsports.top/embed/echo/mexico-vs-belgium-football-1514471/3#player=clappr#autoplay=true" }
+      "CH1": { "type": "iframe", "src": "https://embedsports.top/embed/echo/puebla-vs-fc-juarez-football-1492571/1" },
+  "CH2": { "type": "iframe", "src": "https://embedsports.top/embed/echo/puebla-vs-fc-juarez-football-1492571/2" }
 }
