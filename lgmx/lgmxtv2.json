@@ -107,6 +107,12 @@
     "k1": "902e5ec0e3d05e665daa32fc23f4f59e",
     "k2": "7b2322a273843921a43e2c61dac7cae3"
   },
+  "T5N4": {
+    "type": "jw",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+    "k1": "c4088f5f265f9de50cffd80bf89308b7",
+    "k2": "2c4d2239d96d532b4ec2050653611003"
+  },
   "AZ7_2": {
     "type": "jw",
     "url": "https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8"
