@@ -119,6 +119,12 @@
     "k1": "dc69b6159a0f9f0a4e03b3ff91cbacd5",
     "k2": "d0dcbcd7723bc40df0bf34c9c092d51f"
   },
+  "MAX": {
+    "type": "jw",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/qxprlxa3hc/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd",
+    "k1": "73307447c35177a8acc3e8a42aa2516d",
+    "k2": "63a3ec36d4bdb812e41e74f132c5ff2f"
+  },
   "AZ7_2": {
     "type": "jw",
     "url": "https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8"
