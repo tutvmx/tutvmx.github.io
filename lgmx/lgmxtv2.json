@@ -125,6 +125,12 @@
     "k1": "73307447c35177a8acc3e8a42aa2516d",
     "k2": "63a3ec36d4bdb812e41e74f132c5ff2f"
   },
+  "MAX2": {
+    "type": "jw",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/tr85qesyaa/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd",
+    "k1": "36e8cbbdffc40708f01095591b7c53a6",
+    "k2": "078d543be20fe4769221f5afb3ecf195"
+  },
   "AZ7_2": {
     "type": "jw",
     "url": "https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8"
