@@ -133,9 +133,9 @@
   },
   "MAX2": {
     "type": "jw",
-    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/tr85qesyaa/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd",
-    "k1": "36e8cbbdffc40708f01095591b7c53a6",
-    "k2": "078d543be20fe4769221f5afb3ecf195"
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ebyufuwrml/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd",
+    "k1": "19ddf4e42f18bfc3c71c57af73949b17",
+    "k2": "e8f8f994d08cadb95fe1e29027214d21"
   },
   "AZ7_2": {
     "type": "jw",
