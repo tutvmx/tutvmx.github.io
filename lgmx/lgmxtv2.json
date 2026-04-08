@@ -59,6 +59,12 @@
     "k1": "34475edab991ad5e92548aebd710410a",
     "k2": "501b209cccd323ac00bf5ac15b406cb4"
   },
+  "CAZE_TV2": {
+    "type": "jw",
+    "url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
+    "k1": "9752ef72590ef441ffa3731e0486fbc0",
+    "k2": "db63ec7b9f11348b7cc6808a54c99457"
+  },
   "C85": {
     "type": "jw",
     "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
