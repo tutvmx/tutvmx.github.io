@@ -150,5 +150,11 @@
   "CH3": { "type": "iframe", "src": "https://embedsports.top/embed/echo/tigres-uanl-vs-seattle-sounders-football-1535330/2" },
   "CH4": { "type": "iframe", "src": "https://embedsports.top/embed/echo/tigres-uanl-vs-seattle-sounders-football-1535330/3" },
   "CH5": { "type": "iframe", "src": "https://embedsports.top/embed/echo/tigres-uanl-vs-seattle-sounders-football-1535330/4" },
-  "CH6": { "type": "iframe", "src": "https://embedsports.top/embed/echo/tigres-uanl-vs-seattle-sounders-football-1535330/5" }
+  "CH6": { "type": "iframe", "src": "https://embedsports.top/embed/echo/tigres-uanl-vs-seattle-sounders-football-1535330/5" },
+  "CH7": { "type": "iframe", "src": "https://embedsports.top/embed/delta/live_concacaf-champions-cup_toluca-la-galaxy-live-streaming-1239366393/1" },
+  "CH8": { "type": "iframe", "src": "https://embedsports.top/embed/echo/toluca-vs-los-angeles-galaxy-football-1535331/1" },
+  "CH9": { "type": "iframe", "src": "https://embedsports.top/embed/echo/toluca-vs-los-angeles-galaxy-football-1535331/2" },
+  "CH10": { "type": "iframe", "src": "https://embedsports.top/embed/echo/toluca-vs-los-angeles-galaxy-football-1535331/3" },
+  "CH11": { "type": "iframe", "src": "https://embedsports.top/embed/echo/toluca-vs-los-angeles-galaxy-football-1535331/4" },
+  "CH12": { "type": "iframe", "src": "https://embedsports.top/embed/echo/toluca-vs-los-angeles-galaxy-football-1535331/5" }
 }
