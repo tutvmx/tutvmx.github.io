@@ -153,5 +153,10 @@
   },
   "CH1": { "type": "iframe", "src": "https://embedsports.top/embed/echo/puebla-vs-leon-football-1492580/1" },
   "CH2": { "type": "iframe", "src": "https://embedsports.top/embed/echo/puebla-vs-leon-football-1492580/2" },
-  "CH3": { "type": "iframe", "src": "https://trendy47.dad/event/puebla-vs-leon-football-1492580" }
+  "CH3": { "type": "iframe", "src": "https://trendy47.dad/event/puebla-vs-leon-football-1492580" },
+  "CH4": { "type": "iframe", "src": "https://embedsports.top/embed/echo/fc-juarez-vs-club-tijuana-football-1492581/1" },
+  "CH5": { "type": "iframe", "src": "https://embedsports.top/embed/echo/fc-juarez-vs-club-tijuana-football-1492581/2" },
+  "CH6": { "type": "iframe", "src": "https://embedsports.top/embed/echo/fc-juarez-vs-club-tijuana-football-1492581/3" },
+  "CH7": { "type": "iframe", "src": "https://trendy47.dad/event/live_liga-mx-clausura_juarez-tijuana-live-streaming-1166764068" },
+  "CH7": { "type": "iframe", "src": "https://trendy47.dad/event/fc-juarez-vs-club-tijuana-football-1492581" }
 }
