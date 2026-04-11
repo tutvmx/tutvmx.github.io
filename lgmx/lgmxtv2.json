@@ -151,33 +151,8 @@
     "type": "iframe",
     "src": "https://rojadirectatve.com/repro/tudnusa.html"
   },
-  "CH1": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-ac-milan-vs-udinese/1" },
-  "CH2": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-ac-milan-vs-udinese/2" },
-  "CH3": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-ac-milan-vs-udinese/3" },
-  "CH4": { "type": "iframe", "src": "https://embedsports.top/embed/delta/live_serie-a_milan-udinese-live-streaming-1094310594/1" },
-  "CH5": { "type": "iframe", "src": "https://embedsports.top/embed/echo/ac-milan-vs-udinese-football-1378180/1" },
-  "CH6": { "type": "iframe", "src": "https://embedsports.top/embed/echo/ac-milan-vs-udinese-football-1378180/2" },
-  "CH7": { "type": "iframe", "src": "https://embedsports.top/embed/echo/ac-milan-vs-udinese-football-1378180/3" },
-
-  "CH8": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-barcelona-vs-espanyol/1" },
-  "CH9": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-barcelona-vs-espanyol/2" },
-  "CH10": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-barcelona-vs-espanyol/3" },
-  "CH11": { "type": "iframe", "src": "https://embedsports.top/embed/delta/live_laliga_barcelona-espanyol-live-streaming-1094317587/1" },
-  "CH12": { "type": "iframe", "src": "https://embedsports.top/embed/delta/live_laliga_barcelona-espanyol-live-streaming-1094317587/2" },
-  "CH13": { "type": "iframe", "src": "https://embedsports.top/embed/echo/barcelona-vs-espanyol-football-1391120/1" },
-  "CH14": { "type": "iframe", "src": "https://embedsports.top/embed/echo/barcelona-vs-espanyol-football-1391120/2" },
-  "CH15": { "type": "iframe", "src": "https://embedsports.top/embed/echo/barcelona-vs-espanyol-football-1391120/3" },
-  "CH16": { "type": "iframe", "src": "https://embedsports.top/embed/echo/barcelona-vs-espanyol-football-1391120/4" },
-  "CH17": { "type": "iframe", "src": "https://embedsports.top/embed/echo/barcelona-vs-espanyol-football-1391120/5" },
-
-  "CH18": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-liverpool-vs-fulham/1" },
-  "CH19": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-liverpool-vs-fulham/2" },
-  "CH20": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-liverpool-vs-fulham/3" },
-  "CH21": { "type": "iframe", "src": "https://embedsports.top/embed/delta/live_premier-league_liverpool-fulham-live-streaming-1094070834/1" },
-  "CH22": { "type": "iframe", "src": "https://embedsports.top/embed/echo/liverpool-vs-fulham-football-1379284/1" },
-  "CH23": { "type": "iframe", "src": "https://embedsports.top/embed/echo/liverpool-vs-fulham-football-1379284/2" },
-  "CH24": { "type": "iframe", "src": "https://embedsports.top/embed/echo/liverpool-vs-fulham-football-1379284/3" },
-  "CH25": { "type": "iframe", "src": "https://embedsports.top/embed/echo/liverpool-vs-fulham-football-1379284/4" },
-  "CH26": { "type": "iframe", "src": "https://embedsports.top/embed/echo/liverpool-vs-fulham-football-1379284/5" },
-  "CH27": { "type": "iframe", "src": "https://embedsports.top/embed/golf/21449/5" }
+  "CH1": { "type": "iframe", "src": "https://embedsports.top/embed/echo/club-queretaro-vs-necaxa-football-1492582/1" },
+  "CH2": { "type": "iframe", "src": "https://embedsports.top/embed/echo/club-queretaro-vs-necaxa-football-1492582/2" },
+  "CH3": { "type": "iframe", "src": "https://embedsports.top/embed/echo/club-queretaro-vs-necaxa-football-1492582/3" },
+  "CH4": { "type": "iframe", "src": "https://embedsports.top/embed/echo/club-queretaro-vs-necaxa-football-1492582/4" }
 }
