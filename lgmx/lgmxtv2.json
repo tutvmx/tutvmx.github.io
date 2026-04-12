@@ -89,6 +89,12 @@
     "k1": "2a834223a53db8604ef2fa3069eb1437",
     "k2": "fe6cda8dfa60900c495f9d4d690856ed"
   },
+  "F0X3": {
+    "type": "jw",
+    "url": "https://cdn-calisports-pri-01.vos360.video/Content/LiveEvent/301274c1-e666-429c-96f1-ace2a78cc883/DASH/master.mpd",
+    "k1": "e2dc0625af40afd99df59a287e695c69",
+    "k2": "da084ac00db06f204753f77b5cf446a0"
+  },
   "F51": {
     "type": "jw",
     "url": "https://otte-netskrt.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd",
