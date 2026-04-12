@@ -157,10 +157,6 @@
     "type": "iframe",
     "src": "https://rojadirectatve.com/repro/tudnusa.html"
   },
-  "CH10": { "type": "iframe", "src": "https://embedsports.top/embed/echo/atlas-vs-monterrey-football-1492584/1" },
-  "CH11": { "type": "iframe", "src": "https://embedsports.top/embed/echo/atlas-vs-monterrey-football-1492584/2" },
-  "CH12": { "type": "iframe", "src": "https://embedsports.top/embed/echo/pachuca-vs-santos-laguna-football-1492585/1" },
-  "CH13": { "type": "iframe", "src": "https://embedsports.top/embed/echo/pachuca-vs-santos-laguna-football-1492585/2" },
-  "CH14": { "type": "iframe", "src": "https://embedsports.top/embed/echo/club-america-vs-cruz-azul-football-1492586/1" },
-  "CH15": { "type": "iframe", "src": "https://embedsports.top/embed/echo/club-america-vs-cruz-azul-football-1492586/2" }
+  "CH1": { "type": "iframe", "src": "https://embedsports.top/embed/echo/unam-pumas-vs-mazatlan-football-1492587/1" },
+  "CH2": { "type": "iframe", "src": "https://embedsports.top/embed/echo/unam-pumas-vs-mazatlan-football-1492587/2" }
 }
