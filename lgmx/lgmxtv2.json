@@ -139,15 +139,15 @@
   },
   "MAX": {
     "type": "jw",
-    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/7bssxijr6b/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd",
-    "k1": "99fc44aa47210c6c3b0c1a199492b070",
-    "k2": "0c13d95fdabafa0efc1e5627937e9989"
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/evcwllecpt/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd",
+    "k1": "ed000f460d0cddb51e422322a0bebd8c",
+    "k2": "8fbaa3e751b347f5da3158bc79c60ded"
   },
   "MAX2": {
     "type": "jw",
-    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ebyufuwrml/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd",
-    "k1": "19ddf4e42f18bfc3c71c57af73949b17",
-    "k2": "e8f8f994d08cadb95fe1e29027214d21"
+    "url": "https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/k6rrjtonqd/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd",
+    "k1": "ed7114500f9cb80827d437849d34df46",
+    "k2": "0f843c9bd7d958341501a84fa010d888"
   },
   "AZ7_2": {
     "type": "jw",
