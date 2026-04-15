@@ -157,18 +157,23 @@
     "type": "iframe",
     "src": "https://rojadirectatve.com/repro/tudnusa.html"
   },
-  "CH1": { "type": "iframe", "src": "https://embedsports.top/embed/delta/live_concacaf-champions-cup_cruz-azul-los-angeles-live-streaming-1239601158/1" },
-  "CH2": { "type": "iframe", "src": "https://embedsports.top/embed/echo/cruz-azul-vs-los-angeles-fc-football-1534573/1" },
-  "CH3": { "type": "iframe", "src": "https://embedsports.top/embed/echo/cruz-azul-vs-los-angeles-fc-football-1534573/2" },
-  "CH4": { "type": "iframe", "src": "https://embedsports.top/embed/echo/cruz-azul-vs-los-angeles-fc-football-1534573/3" },
-  "CH5": { "type": "iframe", "src": "https://embedsports.top/embed/echo/cruz-azul-vs-los-angeles-fc-football-1534573/4" },
-  "CH6": { "type": "iframe", "src": "https://embedsports.top/embed/echo/cruz-azul-vs-los-angeles-fc-football-1534573/5" },
+  "CH1": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-bayern-munich-vs-real-madrid/1" },
+  "CH2": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-bayern-munich-vs-real-madrid/2" },
+  "CH3": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-bayern-munich-vs-real-madrid/3" },
+  "CH4": { "type": "iframe", "src": "https://embedsports.top/embed/echo/bayern-munchen-vs-real-madrid-football-1534911/1" },
+  "CH5": { "type": "iframe", "src": "https://embedsports.top/embed/echo/bayern-munchen-vs-real-madrid-football-1534911/2" },
+  "CH6": { "type": "iframe", "src": "https://embedsports.top/embed/echo/bayern-munchen-vs-real-madrid-football-1534911/3" },
+  "CH7": { "type": "iframe", "src": "https://embedsports.top/embed/echo/bayern-munchen-vs-real-madrid-football-1534911/4" },
+  "CH8": { "type": "iframe", "src": "https://embedsports.top/embed/echo/bayern-munchen-vs-real-madrid-football-1534911/5" },
+  "CH9": { "type": "iframe", "src": "https://embedsports.top/embed/golf/21616/1" },
 
 
-  "CH7": { "type": "iframe", "src": "https://embedsports.top/embed/delta/live_concacaf-champions-cup_america-nashville-live-streaming-1239602157/1" },
-  "CH8": { "type": "iframe", "src": "https://embedsports.top/embed/echo/club-america-vs-nashville-sc-football-1534932/1" },
-  "CH9": { "type": "iframe", "src": "https://embedsports.top/embed/echo/club-america-vs-nashville-sc-football-1534932/2" },
-  "CH10": { "type": "iframe", "src": "https://embedsports.top/embed/echo/club-america-vs-nashville-sc-football-1534932/3" },
-  "CH11": { "type": "iframe", "src": "https://embedsports.top/embed/echo/club-america-vs-nashville-sc-football-1534932/4" },
-  "CH12": { "type": "iframe", "src": "https://embedsports.top/embed/echo/club-america-vs-nashville-sc-football-1534932/5" }
+  "CH10": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-arsenal-vs-sporting-cp/1" },
+  "CH11": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-arsenal-vs-sporting-cp/2" },
+  "CH12": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-arsenal-vs-sporting-cp/3" },
+  "CH13": { "type": "iframe", "src": "https://embedsports.top/embed/echo/arsenal-vs-sporting-cp-football-1534571/1" },
+  "CH14": { "type": "iframe", "src": "https://embedsports.top/embed/echo/arsenal-vs-sporting-cp-football-1534571/2" },
+  "CH15": { "type": "iframe", "src": "https://embedsports.top/embed/echo/arsenal-vs-sporting-cp-football-1534571/3" },
+  "CH16": { "type": "iframe", "src": "https://embedsports.top/embed/echo/arsenal-vs-sporting-cp-football-1534571/4" },
+  "CH17": { "type": "iframe", "src": "https://embedsports.top/embed/golf/21615/1" }
 }
