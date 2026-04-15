@@ -79,9 +79,9 @@
   },
   "F0X": {
     "type": "jw",
-    "url": "https://cdn-calisports-pri-01.vos360.video/Content/LiveEvent/f3c76c4c-489a-472b-a7ea-ed7815e3fc36/DASH/master.mpd",
-    "k1": "1bb29bb59735d11cf4856a7dbd3cc648",
-    "k2": "bc82da9404cae051cd83ede93da6edfd"
+    "url": "https://cdn-calisports-pri-01.vos360.video/Content/LiveEvent/c0b2ae20-023c-486c-b415-0adaab5aadfd/DASH/master.mpd",
+    "k1": "04761c3048b9928b8a1ab186d1d35e27",
+    "k2": "837343eb64cb9399d4b32860eb27767d"
   },
   "F0X2": {
     "type": "jw",
@@ -157,23 +157,10 @@
     "type": "iframe",
     "src": "https://rojadirectatve.com/repro/tudnusa.html"
   },
-  "CH1": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-atl-tico-madrid-vs-barcelona/1" },
-  "CH2": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-atl-tico-madrid-vs-barcelona/2" },
-  "CH3": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-atl-tico-madrid-vs-barcelona/3" },
-  "CH4": { "type": "iframe", "src": "https://embedsports.top/embed/delta/live_uefa-champions-league-knockout-stage_atl-madrid-barcelona-live-streaming-1239575184/1" },
-  "CH5": { "type": "iframe", "src": "https://embedsports.top/embed/golf/21613/1" },
-  "CH6": { "type": "iframe", "src": "https://embedsports.top/embed/echo/atletico-madrid-vs-barcelona-football-1534910/1" },
-  "CH7": { "type": "iframe", "src": "https://embedsports.top/embed/echo/atletico-madrid-vs-barcelona-football-1534910/2" },
-  "CH8": { "type": "iframe", "src": "https://embedsports.top/embed/echo/atletico-madrid-vs-barcelona-football-1534910/3" },
-  "CH9": { "type": "iframe", "src": "https://embedsports.top/embed/echo/atletico-madrid-vs-barcelona-football-1534910/4" },
-  "CH10": { "type": "iframe", "src": "https://embedsports.top/embed/echo/atletico-madrid-vs-barcelona-football-1534910/5" },
-
-
-  "CH11": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-liverpool-vs-paris-saint-germain/1" },
-  "CH12": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-liverpool-vs-paris-saint-germain/2" },
-  "CH13": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-liverpool-vs-paris-saint-germain/3" },
-  "CH14": { "type": "iframe", "src": "https://embedsports.top/embed/delta/live_uefa-champions-league-knockout-stage_liverpool-psg-live-streaming-1239576183/1" },
-  "CH15": { "type": "iframe", "src": "https://embedsports.top/embed/echo/liverpool-vs-paris-saint-germain-football-1534912/1" },
-  "CH16": { "type": "iframe", "src": "https://embedsports.top/embed/echo/liverpool-vs-paris-saint-germain-football-1534912/2" },
-  "CH17": { "type": "iframe", "src": "https://embedsports.top/embed/golf/21614/1" }
+  "CH1": { "type": "iframe", "src": "https://embedsports.top/embed/delta/live_concacaf-champions-cup_cruz-azul-los-angeles-live-streaming-1239601158/1" },
+  "CH2": { "type": "iframe", "src": "https://embedsports.top/embed/echo/cruz-azul-vs-los-angeles-fc-football-1534573/1" },
+  "CH3": { "type": "iframe", "src": "https://embedsports.top/embed/echo/cruz-azul-vs-los-angeles-fc-football-1534573/2" },
+  "CH4": { "type": "iframe", "src": "https://embedsports.top/embed/echo/cruz-azul-vs-los-angeles-fc-football-1534573/3" },
+  "CH5": { "type": "iframe", "src": "https://embedsports.top/embed/echo/cruz-azul-vs-los-angeles-fc-football-1534573/4" },
+  "CH6": { "type": "iframe", "src": "https://embedsports.top/embed/echo/cruz-azul-vs-los-angeles-fc-football-1534573/5" }
 }
