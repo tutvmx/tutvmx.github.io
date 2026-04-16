@@ -157,23 +157,13 @@
     "type": "iframe",
     "src": "https://rojadirectatve.com/repro/tudnusa.html"
   },
-  "CH1": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-bayern-munich-vs-real-madrid/1" },
-  "CH2": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-bayern-munich-vs-real-madrid/2" },
-  "CH3": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-bayern-munich-vs-real-madrid/3" },
-  "CH4": { "type": "iframe", "src": "https://embedsports.top/embed/echo/bayern-munchen-vs-real-madrid-football-1534911/1" },
-  "CH5": { "type": "iframe", "src": "https://embedsports.top/embed/echo/bayern-munchen-vs-real-madrid-football-1534911/2" },
-  "CH6": { "type": "iframe", "src": "https://embedsports.top/embed/echo/bayern-munchen-vs-real-madrid-football-1534911/3" },
-  "CH7": { "type": "iframe", "src": "https://embedsports.top/embed/echo/bayern-munchen-vs-real-madrid-football-1534911/4" },
-  "CH8": { "type": "iframe", "src": "https://embedsports.top/embed/echo/bayern-munchen-vs-real-madrid-football-1534911/5" },
-  "CH9": { "type": "iframe", "src": "https://embedsports.top/embed/golf/21616/1" },
-
-
-  "CH10": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-arsenal-vs-sporting-cp/1" },
-  "CH11": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-arsenal-vs-sporting-cp/2" },
-  "CH12": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-arsenal-vs-sporting-cp/3" },
-  "CH13": { "type": "iframe", "src": "https://embedsports.top/embed/echo/arsenal-vs-sporting-cp-football-1534571/1" },
-  "CH14": { "type": "iframe", "src": "https://embedsports.top/embed/echo/arsenal-vs-sporting-cp-football-1534571/2" },
-  "CH15": { "type": "iframe", "src": "https://embedsports.top/embed/echo/arsenal-vs-sporting-cp-football-1534571/3" },
-  "CH16": { "type": "iframe", "src": "https://embedsports.top/embed/echo/arsenal-vs-sporting-cp-football-1534571/4" },
-  "CH17": { "type": "iframe", "src": "https://embedsports.top/embed/golf/21615/1" }
+  "CH1": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-la-galaxy-vs-toluca/1" },
+  "CH2": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-la-galaxy-vs-toluca/2" },
+  "CH3": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-la-galaxy-vs-toluca/3" },
+  "CH4": { "type": "iframe", "src": "https://embedsports.top/embed/delta/live_concacaf-champions-cup_la-galaxy-toluca-live-streaming-1239666093/1" },
+  "CH5": { "type": "iframe", "src": "https://embedsports.top/embed/echo/los-angeles-galaxy-vs-toluca-football-1535332/1" },
+  "CH6": { "type": "iframe", "src": "https://embedsports.top/embed/echo/los-angeles-galaxy-vs-toluca-football-1535332/2" },
+  "CH7": { "type": "iframe", "src": "https://embedsports.top/embed/echo/los-angeles-galaxy-vs-toluca-football-1535332/3" },
+  "CH8": { "type": "iframe", "src": "https://embedsports.top/embed/echo/los-angeles-galaxy-vs-toluca-football-1535332/4" },
+  "CH9": { "type": "iframe", "src": "https://embedsports.top/embed/echo/los-angeles-galaxy-vs-toluca-football-1535332/5" }
 }
