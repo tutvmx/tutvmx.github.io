@@ -79,9 +79,9 @@
   },
   "F0X": {
     "type": "jw",
-    "url": "https://cdn-calisports-pri-01.vos360.video/Content/LiveEvent/c0b2ae20-023c-486c-b415-0adaab5aadfd/DASH/master.mpd",
-    "k1": "04761c3048b9928b8a1ab186d1d35e27",
-    "k2": "837343eb64cb9399d4b32860eb27767d"
+    "url": "https://cdn-calisports-pri-01.vos360.video/Content/LiveEvent/b2bc4c37-8345-4038-a557-465f4addcba6/DASH/master.mpd",
+    "k1": "0f7c04bcf6f1a56454d2edc02613672f",
+    "k2": "214b080dc4c2785dd35329c5af6ff922"
   },
   "F0X2": {
     "type": "jw",
