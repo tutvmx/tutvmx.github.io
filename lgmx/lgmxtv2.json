@@ -163,23 +163,8 @@
     "type": "iframe",
     "src": "https://rojadirectatve.com/repro/tudnusa.html"
   },
-  "CH1": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-atl-tico-madrid-vs-real-sociedad/1" },
-  "CH2": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-atl-tico-madrid-vs-real-sociedad/2" },
-  "CH3": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-atl-tico-madrid-vs-real-sociedad/3" },
-  "CH4": { "type": "iframe", "src": "https://embedsports.top/embed/delta/live_copa-del-rey_atl-madrid-real-sociedad-live-streaming-1192925880/1" },
-  "CH5": { "type": "iframe", "src": "https://embedsports.top/embed/echo/atletico-madrid-vs-real-sociedad-football-1529694/1" },
-  "CH6": { "type": "iframe", "src": "https://embedsports.top/embed/echo/atletico-madrid-vs-real-sociedad-football-1529694/2" },
-  "CH7": { "type": "iframe", "src": "https://embedsports.top/embed/echo/atletico-madrid-vs-real-sociedad-football-1529694/3" },
-  "CH8": { "type": "iframe", "src": "https://embedsports.top/embed/echo/atletico-madrid-vs-real-sociedad-football-1529694/4" },
-  "CH9": { "type": "iframe", "src": "https://embedsports.top/embed/echo/atletico-madrid-vs-real-sociedad-football-1529694/5" },
-
-
-  "CH10": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-chelsea-vs-manchester-united/1" },
-  "CH11": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-chelsea-vs-manchester-united/2" },
-  "CH12": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-chelsea-vs-manchester-united/3" },
-  "CH13": { "type": "iframe", "src": "https://embedsports.top/embed/delta/live_premier-league_chelsea-man-utd-live-streaming-1094599305/1" },
-  "CH14": { "type": "iframe", "src": "https://embedsports.top/embed/echo/chelsea-vs-manchester-united-football-1379291/1" },
-  "CH15": { "type": "iframe", "src": "https://embedsports.top/embed/echo/chelsea-vs-manchester-united-football-1379291/2" },
-  "CH16": { "type": "iframe", "src": "https://embedsports.top/embed/echo/chelsea-vs-manchester-united-football-1379291/3" },
-  "CH17": { "type": "iframe", "src": "https://embedsports.top/embed/golf/21695/1" }
+  "CH1": { "type": "iframe", "src": "https://embedsports.top/embed/echo/cruz-azul-vs-club-tijuana-football-1492592/1" },
+  "CH2": { "type": "iframe", "src": "https://embedsports.top/embed/echo/cruz-azul-vs-club-tijuana-football-1492592/2" },
+  "CH3": { "type": "iframe", "src": "https://embedsports.top/embed/echo/necaxa-vs-tigres-uanl-football-1492591/1" },
+  "CH4": { "type": "iframe", "src": "https://embedsports.top/embed/echo/necaxa-vs-tigres-uanl-football-1492591/2" }
 }
