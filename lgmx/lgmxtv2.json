@@ -149,6 +149,12 @@
     "k1": "906598ffdf64ee6229ac985666cc6dba",
     "k2": "d2e8ca676c843293a7549f7847ed5a07"
   },
+  "TVL1": {
+    "type": "jw",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+    "k1": "fd86dde0ae3e14ff51c8fc8f248a50db",
+    "k2": "d106ae78b0893da2e4393ece99420baa"
+  },
   "AZ7_2": {
     "type": "jw",
     "url": "https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8"
