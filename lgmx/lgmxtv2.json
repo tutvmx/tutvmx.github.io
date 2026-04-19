@@ -171,5 +171,7 @@
   "CH6": { "type": "iframe", "src": "https://embedsports.top/embed/echo/monterrey-vs-pachuca-football-1492594/2" },
   "CH7": { "type": "iframe", "src": "https://embedsports.top/embed/echo/guadalajara-chivas-vs-puebla-football-1492593/1" },
   "CH8": { "type": "iframe", "src": "https://embedsports.top/embed/echo/guadalajara-chivas-vs-puebla-football-1492593/2" },
-  "CH9": { "type": "iframe", "src": "https://embedsports.top/embed/echo/guadalajara-chivas-vs-puebla-football-1492593/3" }
+  "CH9": { "type": "iframe", "src": "https://embedsports.top/embed/echo/guadalajara-chivas-vs-puebla-football-1492593/3" },
+  "CH10": { "type": "iframe", "src": "https://embedsports.top/embed/echo/club-america-vs-toluca-football-1492595/1" },
+  "CH11": { "type": "iframe", "src": "https://embedsports.top/embed/echo/club-america-vs-toluca-football-1492595/2" }
 }
