@@ -166,5 +166,10 @@
   "CH1": { "type": "iframe", "src": "https://embedsports.top/embed/echo/cruz-azul-vs-club-tijuana-football-1492592/1" },
   "CH2": { "type": "iframe", "src": "https://embedsports.top/embed/echo/cruz-azul-vs-club-tijuana-football-1492592/2" },
   "CH3": { "type": "iframe", "src": "https://embedsports.top/embed/echo/necaxa-vs-tigres-uanl-football-1492591/1" },
-  "CH4": { "type": "iframe", "src": "https://embedsports.top/embed/echo/necaxa-vs-tigres-uanl-football-1492591/2" }
+  "CH4": { "type": "iframe", "src": "https://embedsports.top/embed/echo/necaxa-vs-tigres-uanl-football-1492591/2" },
+  "CH5": { "type": "iframe", "src": "https://embedsports.top/embed/echo/monterrey-vs-pachuca-football-1492594/1" },
+  "CH6": { "type": "iframe", "src": "https://embedsports.top/embed/echo/monterrey-vs-pachuca-football-1492594/2" },
+  "CH7": { "type": "iframe", "src": "https://embedsports.top/embed/echo/guadalajara-chivas-vs-puebla-football-1492593/1" },
+  "CH8": { "type": "iframe", "src": "https://embedsports.top/embed/echo/guadalajara-chivas-vs-puebla-football-1492593/2" },
+  "CH9": { "type": "iframe", "src": "https://embedsports.top/embed/echo/guadalajara-chivas-vs-puebla-football-1492593/3" }
 }
