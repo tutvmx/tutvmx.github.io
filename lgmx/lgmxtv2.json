@@ -218,5 +218,9 @@
 
   "CH10": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-girona-vs-real-betis/1" },
   "CH11": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-girona-vs-real-betis/2" },
-  "CH12": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-girona-vs-real-betis/3" }
+  "CH12": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-girona-vs-real-betis/3" },
+  "CH13": { "type": "iframe", "src": "https://embedsports.top/embed/echo/girona-vs-real-betis-football-1391142/1" },
+  "CH14": { "type": "iframe", "src": "https://embedsports.top/embed/echo/girona-vs-real-betis-football-1391142/2" },
+  "CH15": { "type": "iframe", "src": "https://embedsports.top/embed/echo/girona-vs-real-betis-football-1391142/3" },
+  "CH16": { "type": "iframe", "src": "https://embedsports.top/embed/echo/girona-vs-real-betis-football-1391142/4" }
 }
