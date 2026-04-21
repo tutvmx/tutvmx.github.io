@@ -163,16 +163,18 @@
     "type": "iframe",
     "src": "https://rojadirectatve.com/repro/tudnusa.html"
   },
-  "CH1": { "type": "iframe", "src": "https://embedsports.top/embed/echo/santos-laguna-vs-atlas-football-1492597/1" },
-  "CH2": { "type": "iframe", "src": "https://embedsports.top/embed/echo/santos-laguna-vs-atlas-football-1492597/2" },
-  "CH3": { "type": "iframe", "src": "https://embedsports.top/embed/echo/necaxa-vs-tigres-uanl-football-1492591/1" },
-  "CH4": { "type": "iframe", "src": "https://embedsports.top/embed/echo/necaxa-vs-tigres-uanl-football-1492591/2" },
-  "CH5": { "type": "iframe", "src": "https://embedsports.top/embed/echo/monterrey-vs-pachuca-football-1492594/1" },
-  "CH6": { "type": "iframe", "src": "https://embedsports.top/embed/echo/monterrey-vs-pachuca-football-1492594/2" },
-  "CH7": { "type": "iframe", "src": "https://embedsports.top/embed/echo/guadalajara-chivas-vs-puebla-football-1492593/1" },
-  "CH8": { "type": "iframe", "src": "https://embedsports.top/embed/echo/guadalajara-chivas-vs-puebla-football-1492593/2" },
-  "CH9": { "type": "iframe", "src": "https://embedsports.top/embed/echo/guadalajara-chivas-vs-puebla-football-1492593/3" },
-  "CH10": { "type": "iframe", "src": "https://embedsports.top/embed/echo/club-america-vs-toluca-football-1492595/1" },
-  "CH11": { "type": "iframe", "src": "https://embedsports.top/embed/echo/club-america-vs-toluca-football-1492595/2" },
-  "CH12": { "type": "iframe", "src": "https://embedsports.top/embed/echo/leon-vs-fc-juarez-football-1492596/1" }
+  "CH1": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-real-madrid-vs-alav-s/1" },
+  "CH2": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-real-madrid-vs-alav-s/2" },
+  "CH3": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-real-madrid-vs-alav-s/3" },
+  "CH4": { "type": "iframe", "src": "https://embedsports.top/embed/golf/21840/1" },
+  "CH5": { "type": "iframe", "src": "https://embedsports.top/embed/echo/real-madrid-vs-alaves-football-1391146/1" },
+  "CH6": { "type": "iframe", "src": "https://embedsports.top/embed/echo/real-madrid-vs-alaves-football-1391146/2" },
+  "CH7": { "type": "iframe", "src": "https://embedsports.top/embed/echo/real-madrid-vs-alaves-football-1391146/3" },
+  "CH8": { "type": "iframe", "src": "https://embedsports.top/embed/echo/real-madrid-vs-alaves-football-1391146/4" },
+  "CH9": { "type": "iframe", "src": "https://embedsports.top/embed/echo/real-madrid-vs-alaves-football-1391146/5" },
+
+
+  "CH10": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-girona-vs-real-betis/1" },
+  "CH11": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-girona-vs-real-betis/2" },
+  "CH12": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-girona-vs-real-betis/3" }
 }
