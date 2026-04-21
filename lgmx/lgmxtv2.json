@@ -179,6 +179,12 @@
     "k1": "a518c629bd683a4eba5f2a793bcb48d6",
     "k2": "49642d2151ac6c3f8453bbfc4b3fdfc0"
   },
+  "TV4S1": {
+    "type": "jw",
+    "url": "https://live.streaming.a2d.tv/asset/20465729.isml/dash.mpd",
+    "k1": "6c2908a6d85d35fd9a33db46d6b157b2",
+    "k2": "2327be90af966a52a164cc46e18b35f5"
+  },
   "PS1": {
     "type": "jw",
     "url": "https://otte.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/vwq77hfgzw/out/v1/b858e0b845c64cec953887bd4269e4ea/cenc.mpd",
