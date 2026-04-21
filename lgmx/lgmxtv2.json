@@ -179,6 +179,18 @@
     "k1": "a518c629bd683a4eba5f2a793bcb48d6",
     "k2": "49642d2151ac6c3f8453bbfc4b3fdfc0"
   },
+  "PS1": {
+    "type": "jw",
+    "url": "https://otte.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/vwq77hfgzw/out/v1/b858e0b845c64cec953887bd4269e4ea/cenc.mpd",
+    "k1": "1444f4235529f183f0a5a486befe9cdb",
+    "k2": "e5e3fec67a1bb3472a2089c8a0a2557f"
+  },
+  "PS2": {
+    "type": "jw",
+    "url": "https://otte.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/w34nznx0bz/out/v1/1c6639b9af994c75847def2249302066/cenc.mpd",
+    "k1": "1a5df53609ebc9857898c490f4724918",
+    "k2": "77f62980d582ec541280796acf8b2d19"
+  },
   "AZ7_2": {
     "type": "jw",
     "url": "https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8"
