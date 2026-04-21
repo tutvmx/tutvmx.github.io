@@ -155,6 +155,24 @@
     "k1": "fd86dde0ae3e14ff51c8fc8f248a50db",
     "k2": "d106ae78b0893da2e4393ece99420baa"
   },
+  "BS1": {
+    "type": "jw",
+    "url": "//otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+    "k1": "335dad778109954503dcbb21dc92015f",
+    "k2": "24bfd75d436cbf73168a2a2dccd40281"
+  },
+  "BS2": {
+    "type": "jw",
+    "url": "//otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+    "k1": "0b42be2664d7e811d04f3e504e0924c5",
+    "k2": "ae24090123b8c72ac5404dc152847cb8"
+  },
+  "BS3": {
+    "type": "jw",
+    "url": "//otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+    "k1": "7995c724a13748ed970840a8ab5bb9b3",
+    "k2": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+  },
   "AZ7_2": {
     "type": "jw",
     "url": "https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8"
