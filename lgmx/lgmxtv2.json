@@ -173,6 +173,12 @@
     "k1": "7995c724a13748ed970840a8ab5bb9b3",
     "k2": "67bdaf1e2175b9ff682fcdf0e2354b1e"
   },
+  "TV4F": {
+    "type": "jw",
+    "url": "https://live.streaming.a2d.tv/asset/20465725.isml/dash.mpd",
+    "k1": "a518c629bd683a4eba5f2a793bcb48d6",
+    "k2": "49642d2151ac6c3f8453bbfc4b3fdfc0"
+  },
   "AZ7_2": {
     "type": "jw",
     "url": "https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8"
