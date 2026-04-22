@@ -205,6 +205,8 @@
     "type": "iframe",
     "src": "https://rojadirectatve.com/repro/tudnusa.html"
   },
-    "CH1": { "type": "iframe", "src": "https://embedsports.top/embed/echo/club-queretaro-vs-cruz-azul-football-1492598/1" },
-  "CH2": { "type": "iframe", "src": "https://embedsports.top/embed/echo/club-queretaro-vs-cruz-azul-football-1492598/2" }
+  "CH1": { "type": "iframe", "src": "https://embedsports.top/embed/echo/club-queretaro-vs-cruz-azul-football-1492598/1" },
+  "CH2": { "type": "iframe", "src": "https://embedsports.top/embed/echo/club-queretaro-vs-cruz-azul-football-1492598/2" },
+  "CH3": { "type": "iframe", "src": "https://embedsports.top/embed/echo/unam-pumas-vs-fc-juarez-football-1492599/1" },
+  "CH4": { "type": "iframe", "src": "https://embedsports.top/embed/echo/unam-pumas-vs-fc-juarez-football-1492599/2" }
 }
