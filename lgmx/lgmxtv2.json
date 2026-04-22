@@ -79,9 +79,9 @@
   },
   "F0X": {
     "type": "jw",
-    "url": "https://cdn-calisports-pri-01.vos360.video/Content/LiveEvent/2119290b-5496-4e81-ab86-a7ac35bcdb82/DASH/master.mpd",
-    "k1": "d7be4eddf9c0451064f181463ecbed4b",
-    "k2": "df353ad86eb3afec092133e98179e766"
+    "url": "https://cdn-calisports-pri-01.vos360.video/Content/LiveEvent/61aa4908-1f27-460a-b15f-1d9cb567d41a/DASH/master.mpd",
+    "k1": "89adcba438d0da7b1b18faf45277ae0c",
+    "k2": "82460b6cd2b6af38757a54ff16130cca"
   },
   "F0X2": {
     "type": "jw",
@@ -205,22 +205,6 @@
     "type": "iframe",
     "src": "https://rojadirectatve.com/repro/tudnusa.html"
   },
-  "CH1": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-real-madrid-vs-alav-s/1" },
-  "CH2": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-real-madrid-vs-alav-s/2" },
-  "CH3": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-real-madrid-vs-alav-s/3" },
-  "CH4": { "type": "iframe", "src": "https://embedsports.top/embed/golf/21840/1" },
-  "CH5": { "type": "iframe", "src": "https://embedsports.top/embed/echo/real-madrid-vs-alaves-football-1391146/1" },
-  "CH6": { "type": "iframe", "src": "https://embedsports.top/embed/echo/real-madrid-vs-alaves-football-1391146/2" },
-  "CH7": { "type": "iframe", "src": "https://embedsports.top/embed/echo/real-madrid-vs-alaves-football-1391146/3" },
-  "CH8": { "type": "iframe", "src": "https://embedsports.top/embed/echo/real-madrid-vs-alaves-football-1391146/4" },
-  "CH9": { "type": "iframe", "src": "https://embedsports.top/embed/echo/real-madrid-vs-alaves-football-1391146/5" },
-
-
-  "CH10": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-girona-vs-real-betis/1" },
-  "CH11": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-girona-vs-real-betis/2" },
-  "CH12": { "type": "iframe", "src": "https://embedsports.top/embed/admin/ppv-girona-vs-real-betis/3" },
-  "CH13": { "type": "iframe", "src": "https://embedsports.top/embed/echo/girona-vs-real-betis-football-1391142/1" },
-  "CH14": { "type": "iframe", "src": "https://embedsports.top/embed/echo/girona-vs-real-betis-football-1391142/2" },
-  "CH15": { "type": "iframe", "src": "https://embedsports.top/embed/echo/girona-vs-real-betis-football-1391142/3" },
-  "CH16": { "type": "iframe", "src": "https://embedsports.top/embed/echo/girona-vs-real-betis-football-1391142/4" }
+    "CH1": { "type": "iframe", "src": "https://embedsports.top/embed/echo/club-queretaro-vs-cruz-azul-football-1492598/1" },
+  "CH2": { "type": "iframe", "src": "https://embedsports.top/embed/echo/club-queretaro-vs-cruz-azul-football-1492598/2" }
 }
