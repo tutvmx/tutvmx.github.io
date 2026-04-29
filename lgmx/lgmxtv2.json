@@ -139,9 +139,9 @@
   },
   "MAX": {
     "type": "jw",
-    "url": "https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/mjl28zz5rj/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd",
-    "k1": "e97f48bffb38c1b2453d5ff7a919759f",
-    "k2": "8e1381edeed7829031963ac576700747"
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/sfutzp2s5h/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd",
+    "k1": "97c2b059423c98db26ff95d9de16668a",
+    "k2": "734fe0053f7cafb41ab85a0c9ade81ab"
   },
   "MAX2": {
     "type": "jw",
