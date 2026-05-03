@@ -125,6 +125,12 @@
     "k1": "902e5ec0e3d05e665daa32fc23f4f59e",
     "k2": "7b2322a273843921a43e2c61dac7cae3"
   },
+  "T5N2": {
+    "type": "jw",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+    "k1": "daa8ea92553fd16cd6bfae2b8c582715",
+    "k2": "4042e041b5639b79b69ae07a872eef9b"
+  },
   "T5N4": {
     "type": "jw",
     "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
