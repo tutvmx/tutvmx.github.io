@@ -115,6 +115,14 @@
     "type": "iframe",
     "src": "https://streamx550.com/global1.php?channel=foxone6"
   },
+  "foxone7": {
+    "type": "iframe",
+    "src": "https://streamx550.com/global1.php?channel=foxone7"
+  },
+  "foxone8": {
+    "type": "iframe",
+    "src": "https://streamx550.com/global1.php?channel=foxone8"
+  },
   "espn": {
     "type": "iframe",
     "src": "https://streamx550.com/global1.php?channel=espn"
