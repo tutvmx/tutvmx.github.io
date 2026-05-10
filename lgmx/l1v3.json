@@ -318,5 +318,9 @@
   "telemundo_ahora": {
     "type": "iframe",
     "src": "https://streamx550.com/global1.php?channel=telemundo_ahora"
+  },
+  "telemundo": {
+    "type": "iframe",
+    "src": "https://streamx550.com/global1.php?channel=telemundo"
   }
 }
