@@ -330,5 +330,9 @@
   "telemundo": {
     "type": "iframe",
     "src": "https://streamx550.com/global1.php?channel=telemundo"
+  },
+  "vix": {
+    "type": "iframe",
+    "src": "https://tvtvhd.com/canales.php?stream=vix1"
   }
 }
