@@ -334,5 +334,9 @@
   "vix": {
     "type": "iframe",
     "src": "https://tvtvhd.com/canales.php?stream=vix1"
+  },
+  "tnt1uk": {
+    "type": "iframe",
+    "src": "https://tvtvhd.com/canales.php?stream=tnt1uk"
   }
 }
