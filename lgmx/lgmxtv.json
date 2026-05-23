@@ -1,9 +1,9 @@
 {
   "2DNMX2": {
     "type": "jw",
-    "url": "https://zap-live1-ott.izzigo.tv/11/out/u/dash/TUDN-HD/default.mpd",
-    "k1": "2722647f77b44824c432a3c4555830a2",
-    "k2": "1734befb82f4b438bd84195f6c212e7b"
+    "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+    "k1": "763ce1ebcaf23502c8cf357c6ef423e1",
+    "k2": "0c5e6c0820a1ea28753721db00272411"
   },
   "2DNMX": {
     "type": "jw",
@@ -19,9 +19,9 @@
   },
   "C52": {
     "type": "jw",
-    "url": "https://zap-live1-ott.izzigo.tv/2/out/u/dash/CANAL-5-HD/default.mpd",
-    "k1": "578f77c2e0fb7b31b1676b75b57fe922",
-    "k2": "6e5ee266b112e58a0e27e4384b03ed76"
+    "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+    "k1": "d695093ea3e66d75a4d213a3e2cbf360",
+    "k2": "01be3f645e89a067d2786c295f68dde4"
   },
   "C9": {
     "type": "jw",
