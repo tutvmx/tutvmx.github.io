@@ -11,6 +11,12 @@
     "k1": "5f096c1f9e243b31ddc3bf4f5d88fc5f",
     "k2": "27334536d6077737b321c64663ebf59d"
   },
+  "2DNMX3": {
+    "type": "jw",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
+    "k1": "1710ac2bbfcd3032d0f6533850968f47",
+    "k2": "d2548dacc8efcd1cd0af0373060c82dc"
+  },
   "C5": {
     "type": "jw",
     "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash-sd/enc/ffwkol9rr3/out/v1/c5f712f414b64736ba9cb11e9d3cd554/cenc-sd.mpd",
