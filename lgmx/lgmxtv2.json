@@ -228,5 +228,11 @@
     "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
     "k1": "fd86dde0ae3e14ff51c8fc8f248a50db",
     "k2": "d106ae78b0893da2e4393ece99420baa"
+  },
+  "ZDF": {
+    "type": "jw",
+    "url": "https://fl-003.live.p7s1video.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd",
+    "k1": "7fc352fa54683accf20b12f679027661",
+    "k2": "993400c4b5ad851c8d6368417d6a3b4c"
   }
 }
