@@ -222,5 +222,11 @@
     "url": "https://pnowlive-cf-prod.tvnow.de/live/nitrohd/dash/nitrohd.mpd",
     "k1": "343a23cd3dfcf4550194f0528771366c",
     "k2": "ad47ec098d7249e45da238adccba45cf"
+  },
+  "L41": {
+    "type": "jw",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+    "k1": "fd86dde0ae3e14ff51c8fc8f248a50db",
+    "k2": "d106ae78b0893da2e4393ece99420baa"
   }
 }
