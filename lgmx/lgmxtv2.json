@@ -252,5 +252,11 @@
     "url": "https://fl-003.live.p7s1video.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd",
     "k1": "7fc352fa54683accf20b12f679027661",
     "k2": "993400c4b5ad851c8d6368417d6a3b4c"
+  },
+  "ITV": {
+    "type": "jw",
+    "url": "https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd",
+    "k1": "5d9937d586414096948337ac314d79c1",
+    "k2": "22ca2e250b729982c97209e0ff3f7e9b"
   }
 }
