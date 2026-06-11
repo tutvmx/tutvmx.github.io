@@ -3,6 +3,30 @@
     "type": "iframe",
     "src": "https://streamx741.com/global1.php?channel=dsports"
   },
+  "dsportsar": {
+    "type": "iframe",
+    "src": "https://streamx741.com/global1.php?channel=dsportsar"
+  },
+  "nu9ve": {
+    "type": "iframe",
+    "src": "https://streamx741.com/global1.php?channel=nu9ve"
+  },
+  "caracoltv": {
+    "type": "iframe",
+    "src": "https://streamx741.com/global1.php?channel=caracoltv"
+  },
+  "la1": {
+    "type": "iframe",
+    "src": "https://streamx741.com/global1.php?channel=la1"
+  },
+  "tsn4": {
+    "type": "iframe",
+    "src": "https://streamx741.com/global1.php?channel=tsn4"
+  },
+  "zdf": {
+    "type": "iframe",
+    "src": "https://streamx741.com/global1.php?channel=zdf"
+  },
   "espndeportes": {
     "type": "iframe",
     "src": "https://streamx741.com/global1.php?channel=espndeportes"
@@ -342,5 +366,17 @@
   "fs1usa": {
     "type": "iframe",
     "src": "https://streamx741.com/global1.php?channel=fs1usa"
+  },
+  "daznmundial1": {
+    "type": "iframe",
+    "src": "https://streamx741.com/global1.php?channel=daznmundial1"
+  },
+  "vix1": {
+    "type": "iframe",
+    "src": "https://streamx741.com/global1.php?channel=vix1"
+  },
+  "chilevision": {
+    "type": "iframe",
+    "src": "https://streamx741.com/global1.php?channel=chilevision"
   }
 }
