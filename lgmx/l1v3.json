@@ -371,6 +371,10 @@
     "type": "iframe",
     "src": "https://streamx741.com/global1.php?channel=daznmundial1"
   },
+  "daznmundial2": {
+    "type": "iframe",
+    "src": "https://streamx741.com/global1.php?channel=daznmundial2"
+  },
   "vix1": {
     "type": "iframe",
     "src": "https://streamx741.com/global1.php?channel=vix1"
