@@ -383,6 +383,10 @@
     "type": "iframe",
     "src": "https://streamx741.com/global1.php?channel=vix2"
   },
+  "vix3": {
+    "type": "iframe",
+    "src": "https://streamx741.com/global1.php?channel=vix3"
+  },
   "chilevision": {
     "type": "iframe",
     "src": "https://streamx741.com/global1.php?channel=chilevision"
