@@ -406,5 +406,9 @@
   "fox1usa": {
     "type": "iframe",
     "src": "https://streamx741.com/global1.php?channel=fox1usa"
+  },
+  "dsportsplus": {
+    "type": "iframe",
+    "src": "https://streamx741.com/global1.php?channel=dsportsplus"
   }
 }
