@@ -258,5 +258,17 @@
     "url": "https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd",
     "k1": "5d9937d586414096948337ac314d79c1",
     "k2": "22ca2e250b729982c97209e0ff3f7e9b"
+  },
+  "D5": {
+    "type": "jw",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qubxnja5rl/out/v1/4ef0db80aa3341e2babb58314541f1e0/cenc.mpd",
+    "k1": "c432184d1ab00475aded5731162d99b",
+    "k2": "5f361ae2b35dcb415fe612ea7e85ed9d"
+  },
+  "D52": {
+    "type": "jw",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
+    "k1": "03f12d6a3dbfd3a6fa7dd7f6417e0c11",
+    "k2": "ea07b87acdf2e45be824cde4a1cf3504"
   }
 }
