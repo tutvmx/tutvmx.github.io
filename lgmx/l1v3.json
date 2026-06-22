@@ -414,5 +414,13 @@
   "foxusa": {
     "type": "iframe",
     "src": "https://streamx741.com/global1.php?channel=foxusa"
+  },
+  "rcn": {
+    "type": "iframe",
+    "src": "https://streamx741.com/global1.php?channel=rcn"
+  },
+  "tsn1": {
+    "type": "iframe",
+    "src": "https://streamx741.com/global1.php?channel=tsn1"
   }
 }
