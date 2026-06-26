@@ -422,5 +422,9 @@
   "tsn1": {
     "type": "iframe",
     "src": "https://streamx996.one/global1.php?channel=tsn1"
+  },
+  "tsn2": {
+    "type": "iframe",
+    "src": "https://streamx996.one/global1.php?channel=tsn2"
   }
 }
