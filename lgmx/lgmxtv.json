@@ -528,5 +528,25 @@
     "url": "https://zap-live1-ott.izzigo.tv/2/out/u/dash/DE-PELICULA-SD/default.mpd",
     "k1": "208012d154bf5128dc04433c22e00698",
     "k2": "d17913671a71821ed7e4c4937cd2fba5"
+  },
+  "2DN": {
+    "type": "jw",
+    "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8"
+  },
+  "UNI": {
+    "type": "jw",
+    "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8"
+  },
+  "UNI_2": {
+    "type": "jw",
+    "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8"
+  },
+  "UNI_3": {
+    "type": "jw",
+    "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8"
+  },
+  "UMAS": {
+    "type": "jw",
+    "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8"
   }
 }
