@@ -270,25 +270,5 @@
     "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
     "k1": "03f12d6a3dbfd3a6fa7dd7f6417e0c11",
     "k2": "ea07b87acdf2e45be824cde4a1cf3504"
-  },
-  "2DN": {
-    "type": "jw",
-    "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8"
-  },
-  "UNI": {
-    "type": "jw",
-    "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8"
-  },
-  "UNI2": {
-    "type": "jw",
-    "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8"
-  },
-  "UNI3": {
-    "type": "jw",
-    "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8"
-  },
-  "UMAS": {
-    "type": "jw",
-    "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8"
   }
 }
