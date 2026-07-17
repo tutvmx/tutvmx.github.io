@@ -21,22 +21,30 @@
             },
             {
               "nombre": "Stream 2",
-              "url": "https://flmx.ct.ws/llanero3.html?r=foxdeportes"
+              "url": "https://embed.st/embed/echo/necaxa-vs-atlante-fc-football-1550894/1"
             },
             {
               "nombre": "Stream 3",
-              "url": "https://flmx.ct.ws/llanero3.html?r=foxone1"
+              "url": "https://embed.st/embed/echo/necaxa-vs-atlante-fc-football-1550894/2"
             },
             {
               "nombre": "Stream 4",
-              "url": "https://flmx.ct.ws/llanero4.html?r=fox_deportes_usa"
+              "url": "https://flmx.ct.ws/llanero3.html?r=foxdeportes"
             },
             {
               "nombre": "Stream 5",
-              "url": "https://flmx.ct.ws/llanero4.html?r=foxone"
+              "url": "https://flmx.ct.ws/llanero3.html?r=foxone1"
             },
             {
               "nombre": "Stream 6",
+              "url": "https://flmx.ct.ws/llanero4.html?r=fox_deportes_usa"
+            },
+            {
+              "nombre": "Stream 7",
+              "url": "https://flmx.ct.ws/llanero4.html?r=foxone"
+            },
+            {
+              "nombre": "Stream 8",
               "url": "https://flmx.ct.ws/llanero5.html?r=70"
             }
           ]
