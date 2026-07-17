@@ -66,22 +66,30 @@
             },
             {
               "nombre": "Stream 2",
-              "url": "https://flmx.ct.ws/llanero3.html?r=tudnus"
+              "url": "https://flmx.ct.ws/llanero6.html?r=LMX5"
             },
             {
               "nombre": "Stream 3",
-              "url": "https://flmx.ct.ws/llanero3.html?r=foxone2"
+              "url": "https://flmx.ct.ws/llanero6.html?r=LMX6"
             },
             {
               "nombre": "Stream 4",
-              "url": "https://flmx.ct.ws/llanero4.html?r=tudn_usa"
+              "url": "https://flmx.ct.ws/llanero3.html?r=tudnus"
             },
             {
               "nombre": "Stream 5",
-              "url": "https://flmx.ct.ws/llanero4.html?r=foxone"
+              "url": "https://flmx.ct.ws/llanero3.html?r=foxone2"
             },
             {
               "nombre": "Stream 6",
+              "url": "https://flmx.ct.ws/llanero4.html?r=tudn_usa"
+            },
+            {
+              "nombre": "Stream 7",
+              "url": "https://flmx.ct.ws/llanero4.html?r=foxone"
+            },
+            {
+              "nombre": "Stream 8",
               "url": "https://flmx.ct.ws/llanero5.html?r=68"
             }
           ]
