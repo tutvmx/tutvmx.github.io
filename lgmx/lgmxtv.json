@@ -6,10 +6,8 @@
     "k2": "0c5e6c0820a1ea28753721db00272411"
   },
   "2DNMX": {
-    "type": "jw",
-    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd",
-    "k1": "5f096c1f9e243b31ddc3bf4f5d88fc5f",
-    "k2": "27334536d6077737b321c64663ebf59d"
+    "type": "iframe",
+    "src": "https://sudamericaplay.sbs/canal_8112/tudnmx12.html"
   },
   "2DNMX3": {
     "type": "jw",
@@ -18,10 +16,8 @@
     "k2": "d2548dacc8efcd1cd0af0373060c82dc"
   },
   "C5": {
-    "type": "jw",
-    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash-sd/enc/ffwkol9rr3/out/v1/c5f712f414b64736ba9cb11e9d3cd554/cenc-sd.mpd",
-    "k1": "c630b9d02c9eee970976e33e9d98ca16",
-    "k2": "6517788f3f04875bc83f34710b1d87e4"
+    "type": "iframe",
+    "src": "https://sudamericaplay.sbs/canal_8112/21canalfive.html"
   },
   "C52": {
     "type": "jw",
