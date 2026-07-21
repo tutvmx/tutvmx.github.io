@@ -75,7 +75,7 @@
   },
   "TB2": {
     "type": "jw",
-    "url": "https://apollo.production-public.tubi.io/live/fox-en-tubi-dynamic-ad-breaks-aQpF7H.m3u8"
+    "url": "https://a.tubi1.apollo.adrise.io/live/fox-en-tubi-tkyi3b/1280x720.m3u8?vpaid_enabled=false&pub_id=21f12146acbab325bb229e55010b88c3&ap.sid=91e6ca0f-c819-42e1-8408-629a3f117507&content_type=mp4&device_id=3488534a-d3d0-46e3-9611-6414745e2b84&now_pos=0&tb.sid=ea06c80e-5662-4449-a781-843695a1b2b2&ap.route=KqJWcE5_DVEg85ofwpPow4Gco5M&content_id=400000122&playback_start_ts=1784664639&ap.playback_start_ts=1784664639&gdpr=0&language=es&ap.pt=2&ap.ss=dd1491c13e1a9f2d04e87dd31e92f753&app_mode=DEFAULT_MODE&app_id=tubitv&platform=WEB"
   },
   "TB3": {
     "type": "jw",
