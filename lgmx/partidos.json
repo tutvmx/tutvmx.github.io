@@ -6,313 +6,119 @@
       "partidos": [
         {
           "id": "w8hstb",
-          "equipos": "Pumas UNAM vs Pachuca",
+          "equipos": "Cruz Azul vs Puebla",
           "liga": "Liga MX",
-          "hora": "17:00 HRS",
-          "imagen": "https://tutvmx.github.io/img/lgmx/pumas-pachuca.png",
+          "hora": "19:00 HRS",
+          "imagen": "https://tutvmx.github.io/img/lgmx/cruzazul-puebla.png",
           "enlaces": [
             {
-              "nombre": "TUDN MX HD",
-              "url": "https://flmx.ct.ws/llanero1.html?r=2DNMX2"
+              "nombre": "Stream1",
+              "url": "https://flmx.ct.ws/llanero7.html?r=_2UbEamZvh72YBZXetbA6Wj8x6mjQbn9Q2nvx"
             },
             {
-              "nombre": "Canal 5 HD",
-              "url": "https://flmx.ct.ws/llanero1.html?r=C52"
+              "nombre": "Stream2",
+              "url": "https://flmx.ct.ws/llanero7.html?r=_2UbEamZvh72YBZXetbA6Wj8x7WYvoLo2JTRP"
             },
             {
-              "nombre": "TUDN MX Op2 HD",
-              "url": "https://flmx.ct.ws/llanero1.html?r=2DNMX"
+              "nombre": "TUDN US HD (SOLO USA)",
+              "url": "https://flmx.ct.ws/llanero1.html?r=2DN"
             },
             {
-              "nombre": "Canal 5 Op2 HD",
-              "url": "https://flmx.ct.ws/llanero1.html?r=C5"
+              "nombre": "TUDN US Op2",
+              "url": "https://flmx.ct.ws/llanero5.html?r=68"
             },
             {
-              "nombre": "Stream 1",
-              "url": "https://flmx.ct.ws/llanero6.html?r=LMX1"
+              "nombre": "TUDN US Op3",
+              "url": "https://flmx.ct.ws/llanero8.html?r=66"
             },
             {
-              "nombre": "Stream 2",
-              "url": "https://flmx.ct.ws/llanero6.html?r=LMX2"
+              "nombre": "TUDN US Op4",
+              "url": "https://flmx.ct.ws/llanero1.html?r=tudnus"
+            },
+            {
+              "nombre": "TUDN US Op5",
+              "url": "https://flmx.ct.ws/llanero4.html?r=tudn_usa"
+            },
+            {
+              "nombre": "TUDN US Op6",
+              "url": "https://flmx.ct.ws/llanero9.html?r=tudn"
             },
             {
               "nombre": "Stream 3",
-              "url": "https://flmx.ct.ws/llanero3.html?r=canal5mx"
+              "url": "https://flmx.ct.ws/llanero6.html?r=LMX1"
             },
             {
               "nombre": "Stream 4",
-              "url": "https://flmx.ct.ws/llanero3.html?r=tudnmx"
-            },
-            {
-              "nombre": "Stream 5",
-              "url": "https://flmx.ct.ws/llanero4.html?r=canal5mx"
-            },
-            {
-              "nombre": "Stream 6",
-              "url": "https://flmx.ct.ws/llanero4.html?r=tudnmx"
-            },
-            {
-              "nombre": "Stream 7",
-              "url": "https://flmx.ct.ws/llanero5.html?r=106"
-            },
-            {
-              "nombre": "Stream 8",
-              "url": "https://flmx.ct.ws/llanero5.html?r=107"
-            },
-            {
-              "nombre": "Stream 9",
-              "url": "https://flmx.ct.ws/llanero8.html?r=935"
-            },
-            {
-              "nombre": "Stream 10",
-              "url": "https://flmx.ct.ws/llanero8.html?r=936"
+              "url": "https://flmx.ct.ws/llanero6.html?r=LMX2"
             }
           ]
         },
         {
           "id": "0brv7t",
-          "equipos": "Monterrey vs Santos Laguna",
+          "equipos": "Toluca vs Pumas UNAM",
           "liga": "Liga MX",
-          "hora": "19:00 HRS",
-          "imagen": "https://tutvmx.github.io/img/lgmx/monterrey-santos.png",
+          "hora": "21:00 HRS",
+          "imagen": "https://tutvmx.github.io/img/lgmx/toluca-pumas.png",
           "enlaces": [
             {
-              "nombre": "TUDN MX HD",
-              "url": "https://flmx.ct.ws/llanero1.html?r=2DNMX2"
+              "nombre": "Stream 1",
+              "url": "https://flmx.ct.ws/llanero7.html?r=_2UbEamZvh72YBZXetbA6WjPLJPe862kL8SE9"
             },
             {
-              "nombre": "Canal 5 HD",
-              "url": "https://flmx.ct.ws/llanero1.html?r=C52"
+              "nombre": "Stream 2",
+              "url": "https://flmx.ct.ws/llanero7.html?r=_2UbEamZvh72YBZXetbA6WjPLK8TeHbPxQ6hd"
             },
             {
-              "nombre": "TUDN MX Op2 HD",
-              "url": "https://flmx.ct.ws/llanero1.html?r=2DNMX"
-            },
-            {
-              "nombre": "Canal 5 Op2 HD",
-              "url": "https://flmx.ct.ws/llanero1.html?r=C5"
-            },
-            {
-              "nombre": "TUDN US HD (Solo USA)",
+              "nombre": "TUDN US HD (SOLO USA)",
               "url": "https://flmx.ct.ws/llanero1.html?r=2DN"
             },
             {
-              "nombre": "UNIVISION US HD (Solo USA)",
-              "url": "https://flmx.ct.ws/llanero1.html?r=UNI"
+              "nombre": "TUDN US Op2",
+              "url": "https://flmx.ct.ws/llanero5.html?r=68"
             },
             {
-              "nombre": "UNIVISION US HD Op2 (Solo USA)",
-              "url": "https://flmx.ct.ws/llanero1.html?r=UNI_2"
+              "nombre": "TUDN US Op3",
+              "url": "https://flmx.ct.ws/llanero8.html?r=66"
             },
             {
-              "nombre": "UNIVISION US HD Op3 (Solo USA)",
-              "url": "https://flmx.ct.ws/llanero1.html?r=UNI_3"
+              "nombre": "TUDN US Op4",
+              "url": "https://flmx.ct.ws/llanero1.html?r=tudnus"
             },
             {
-              "nombre": "Stream 1",
+              "nombre": "TUDN US Op5",
+              "url": "https://flmx.ct.ws/llanero4.html?r=tudn_usa"
+            },
+            {
+              "nombre": "TUDN US Op6",
+              "url": "https://flmx.ct.ws/llanero9.html?r=tudn"
+            },
+            {
+              "nombre": "AZTECA 7",
+              "url": "https://flmx.ct.ws/llanero5.html?r=108"
+            },
+            {
+              "nombre": "AZTECA 7 Op2",
+              "url": "https://flmx.ct.ws/llanero8.html?r=844"
+            },
+            {
+              "nombre": "AZTECA 7 Op3",
+              "url": "https://flmx.ct.ws/llanero9.html?r=azteca7"
+            },
+            {
+              "nombre": "FOX ONE Op2",
+              "url": "https://flmx.ct.ws/llanero1.html?r=foxone1"
+            },
+            {
+              "nombre": "FOX ONE",
+              "url": "https://flmx.ct.ws/llanero4.html?r=foxone"
+            },
+            {
+              "nombre": "Stream 3",
               "url": "https://flmx.ct.ws/llanero6.html?r=LMX3"
             },
             {
-              "nombre": "Stream 2",
+              "nombre": "Stream 4",
               "url": "https://flmx.ct.ws/llanero6.html?r=LMX4"
-            },
-            {
-              "nombre": "Stream 3",
-              "url": "https://flmx.ct.ws/llanero6.html?r=LMX9"
-            },
-            {
-              "nombre": "Stream 4",
-              "url": "https://flmx.ct.ws/llanero6.html?r=LMX10"
-            },
-            {
-              "nombre": "Stream 5",
-              "url": "https://flmx.ct.ws/llanero3.html?r=canal5mx"
-            },
-            {
-              "nombre": "Stream 6",
-              "url": "https://flmx.ct.ws/llanero3.html?r=tudnmx"
-            },
-            {
-              "nombre": "Stream 7",
-              "url": "https://flmx.ct.ws/llanero3.html?r=tudnus"
-            },
-            {
-              "nombre": "Stream 8",
-              "url": "https://flmx.ct.ws/llanero4.html?r=canal5mx"
-            },
-            {
-              "nombre": "Stream 9",
-              "url": "https://flmx.ct.ws/llanero4.html?r=tudnmx"
-            },
-            {
-              "nombre": "Stream 10",
-              "url": "https://flmx.ct.ws/llanero4.html?r=tudn_usa"
-            },
-            {
-              "nombre": "Stream 11",
-              "url": "https://flmx.ct.ws/llanero5.html?r=106"
-            },
-            {
-              "nombre": "Stream 12",
-              "url": "https://flmx.ct.ws/llanero5.html?r=107"
-            },
-            {
-              "nombre": "Stream 13",
-              "url": "https://flmx.ct.ws/llanero5.html?r=68"
-            },
-            {
-              "nombre": "Stream 14",
-              "url": "https://flmx.ct.ws/llanero8.html?r=935"
-            },
-            {
-              "nombre": "Stream 15",
-              "url": "https://flmx.ct.ws/llanero8.html?r=936"
-            },
-            {
-              "nombre": "Stream 16",
-              "url": "https://flmx.ct.ws/llanero8.html?r=132"
-            }
-          ]
-        },
-        {
-          "id": "3tijal",
-          "equipos": "Chivas Guadalajara vs Toluca",
-          "liga": "Liga MX",
-          "hora": "19:00 HRS",
-          "imagen": "https://tutvmx.github.io/img/lgmx/chivas-toluca.png",
-          "enlaces": [
-            {
-              "nombre": "Stream 1",
-              "url": "https://flmx.ct.ws/llanero6.html?r=LMX5"
-            },
-            {
-              "nombre": "Stream 2",
-              "url": "https://flmx.ct.ws/llanero6.html?r=LMX6"
-            },
-            {
-              "nombre": "Stream 3",
-              "url": "https://flmx.ct.ws/llanero6.html?r=LMX11"
-            },
-            {
-              "nombre": "Stream 4",
-              "url": "https://flmx.ct.ws/llanero6.html?r=LMX12"
-            },
-            {
-              "nombre": "Stream 5",
-              "url": "https://flmx.ct.ws/llanero3.html?r=amazon1"
-            },
-            {
-              "nombre": "Stream 6",
-              "url": "https://flmx.ct.ws/llanero3.html?r=telemundo"
-            },
-            {
-              "nombre": "Stream 7",
-              "url": "https://flmx.ct.ws/llanero3.html?r=universo"
-            },
-            {
-              "nombre": "Stream 8",
-              "url": "https://flmx.ct.ws/llanero4.html?r=telemundousa"
-            },
-            {
-              "nombre": "Stream 9",
-              "url": "https://flmx.ct.ws/llanero4.html?r=primevideo"
-            },
-            {
-              "nombre": "Stream 10",
-              "url": "https://flmx.ct.ws/llanero5.html?r=72"
-            },
-            {
-              "nombre": "Stream 1",
-              "url": "https://flmx.ct.ws/llanero5.html?r=73"
-            },
-            {
-              "nombre": "Stream 12",
-              "url": "https://flmx.ct.ws/llanero8.html?r=845"
-            },
-            {
-              "nombre": "Stream 13",
-              "url": "https://flmx.ct.ws/llanero8.html?r=131"
-            }
-          ]
-        },
-        {
-          "id": "vcy33u",
-          "equipos": "Queretaro vs Club America",
-          "liga": "Liga MX",
-          "hora": "21:00 HRS",
-          "imagen": "https://tutvmx.github.io/img/lgmx/queretaro-america.png",
-          "enlaces": [
-            {
-              "nombre": "Stream 1",
-              "url": "https://flmx.ct.ws/llanero6.html?r=LMX7"
-            },
-            {
-              "nombre": "Stream 2",
-              "url": "https://flmx.ct.ws/llanero6.html?r=LMX8"
-            },
-            {
-              "nombre": "TUDN US HD (Solo USA)",
-              "url": "https://flmx.ct.ws/llanero1.html?r=2DN"
-            },
-            {
-              "nombre": "UNIVISION US HD (Solo USA)",
-              "url": "https://flmx.ct.ws/llanero1.html?r=UNI"
-            },
-            {
-              "nombre": "UNIVISION US HD Op2 (Solo USA)",
-              "url": "https://flmx.ct.ws/llanero1.html?r=UNI_2"
-            },
-            {
-              "nombre": "UNIVISION US HD Op3 (Solo USA)",
-              "url": "https://flmx.ct.ws/llanero1.html?r=UNI_3"
-            },
-            {
-              "nombre": "Stream 3",
-              "url": "https://flmx.ct.ws/llanero6.html?r=LMX13"
-            },
-            {
-              "nombre": "Stream 4",
-              "url": "https://flmx.ct.ws/llanero6.html?r=LMX14"
-            },
-            {
-              "nombre": "Stream 5",
-              "url": "https://flmx.ct.ws/llanero3.html?r=foxone1"
-            },
-            {
-              "nombre": "Stream 6",
-              "url": "https://flmx.ct.ws/llanero3.html?r=tudnus"
-            },
-            {
-              "nombre": "Stream 7",
-              "url": "https://flmx.ct.ws/llanero4.html?r=foxone1"
-            },
-            {
-              "nombre": "Stream 8",
-              "url": "https://flmx.ct.ws/llanero4.html?r=tudn_usa"
-            },
-            {
-              "nombre": "Stream 9",
-              "url": "https://flmx.ct.ws/llanero5.html?r=106"
-            },
-            {
-              "nombre": "Stream 10",
-              "url": "https://flmx.ct.ws/llanero5.html?r=107"
-            },
-            {
-              "nombre": "Stream 11",
-              "url": "https://flmx.ct.ws/llanero5.html?r=68"
-            },
-            {
-              "nombre": "Stream 12",
-              "url": "https://flmx.ct.ws/llanero8.html?r=935"
-            },
-            {
-              "nombre": "Stream 13",
-              "url": "https://flmx.ct.ws/llanero8.html?r=936"
-            },
-            {
-              "nombre": "Stream 14",
-              "url": "https://flmx.ct.ws/llanero8.html?r=132"
             }
           ]
         }
