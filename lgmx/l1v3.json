@@ -426,5 +426,13 @@
   "tsn2": {
     "type": "iframe",
     "src": "https://streamx488.sbs/global3.php?channel=tsn2"
+  },
+  "mls1": {
+    "type": "iframe",
+    "src": "https://streamx488.sbs/global3.php?channel=mls1"
+  },
+  "mls2": {
+    "type": "iframe",
+    "src": "https://streamx488.sbs/global3.php?channel=mls2"
   }
 }
