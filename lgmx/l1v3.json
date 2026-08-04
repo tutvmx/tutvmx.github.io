@@ -434,5 +434,25 @@
   "mls2": {
     "type": "iframe",
     "src": "https://streamx488.sbs/global3.php?channel=mls2"
+  },
+  "mls3": {
+    "type": "iframe",
+    "src": "https://streamx488.sbs/global3.php?channel=mls3"
+  },
+  "mls4": {
+    "type": "iframe",
+    "src": "https://streamx488.sbs/global3.php?channel=mls4"
+  },
+  "mls5": {
+    "type": "iframe",
+    "src": "https://streamx488.sbs/global3.php?channel=mls5"
+  },
+  "mls6": {
+    "type": "iframe",
+    "src": "https://streamx488.sbs/global3.php?channel=mls6"
+  },
+  "mls7": {
+    "type": "iframe",
+    "src": "https://streamx488.sbs/global3.php?channel=mls7"
   }
 }
