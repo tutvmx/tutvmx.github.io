@@ -454,5 +454,9 @@
   "mls7": {
     "type": "iframe",
     "src": "https://streamx488.sbs/global3.php?channel=mls7"
+  },
+  "mls8": {
+    "type": "iframe",
+    "src": "https://streamx488.sbs/global3.php?channel=mls8"
   }
 }
