@@ -75,7 +75,7 @@
   },
   "TB2": {
     "type": "jw",
-    "url": "https://a.tubi1.apollo.adrise.io/live/fox-en-tubi-pltefr.m3u8"
+    "url": "https://a.tubi1.apollo.adrise.io/live/fox-en-tubi-pltefr.m3u8?ap.fb=aHR0cHM6Ly9saXZlLW1hbmlmZXN0LnByb2R1Y3Rpb24tcHVibGljLnR1YmkuaW8vbGl2ZS83ZDBmNGFhNi05M2NmLTQ0ODAtYjhmNS0yYzEzMzcwYWNiNzAvcGxheWxpc3QubTN1OD90b2tlbj1leUpoYkdjaU9pSklVelV4TWlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamIzVnVkSEo1SWpvaVRWZ2lMQ0prWlhacFkyVmZhV1FpT2lJek5EZzROVE0wWVMxa00yUXdMVFEyWlRNdE9UWXhNUzAyTkRFME56UTFaVEppT0RRaUxDSmxlSEFpT2pFM09EZzVNVFk0Tnprc0ltbHpjeUk2SW14cGRtVmZibVYzYzE5dFlXNXBabVZ6ZENJc0luQnNZWFJtYjNKdElqb2lWMFZDSWl3aWNuTnpJam9pWVdjaUxDSjFjMlZ5WDJsa0lqb3dmUS5uZUlMa2YxcEhleVdraEJnUGotTmI1OGJ6Tld3cU05M2pWamJwWjF3ZTNZc3hlTzJEXzd4NDhPOVBBZk9JV1R0ZGZDeHVHNG9nZWhNRHMyMzhrYVdmQSZ0Yi5zaWQ9MDk0YzI2ZmEtZTg2Yy00MGYyLTg3NjktYzA5NDM1MDlmYjEy&device_id=3488534a-d3d0-46e3-9611-6414745e2b84&now_pos=0&vpaid_enabled=false&ap.route=B3MdJSHxOf_780a3rYNn8XifXKk&ap.ss=08d68bcee5c68028a67fff46dea520e8&ap.furl=0&playback_start_ts=1788657679&pub_id=21f12146acbab325bb229e55010b88c3&ap.pt=2&app_id=tubitv&content_type=mp4&gdpr=0&platform=WEB&tb.sid=592582c5-db48-48fa-bf8a-f5282e995da8&ap.playback_start_ts=1788657680&ap.sid=1f353577-3d94-45c9-b256-14c8d7ad00e4&app_mode=DEFAULT_MODE&content_id=400000122&language=es"
   },
   "TB3": {
     "type": "jw",
